@@ -16,13 +16,8 @@ FoodLens is a modern, responsive analytics dashboard designed to help you track 
 
 ## 📸 Screenshots
 
-> **Note:** To add your own screenshots, just take a screenshot of your deployed app, drag and drop the image file directly into this README editor on GitHub or VS Code, and it will automatically generate the link!
+><img width="1464" height="806" alt="image" src="https://github.com/user-attachments/assets/aa9dbd04-0b2d-401f-8bde-4fb12fe37950" />
 
-![Dashboard Overview Placeholder](https://placehold.co/1000x500/18181b/a1a1aa?text=Dashboard+Overview+Screenshot+Here)
-*The main dashboard view showing KPI cards, monthly spending area charts, and top restaurants.*
-
-![Analytics Charts Placeholder](https://placehold.co/1000x500/18181b/a1a1aa?text=Analytics+Charts+Screenshot+Here)
-*Visualizing category breakdown, order timings, platform splits, and weekday vs. weekend patterns.*
 
 ---
 
