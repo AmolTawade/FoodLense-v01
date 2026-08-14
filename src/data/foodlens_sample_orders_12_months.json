@@ -1,0 +1,6253 @@
+{
+  "dataset": "FoodLens Synthetic Demo Dataset",
+  "description": "Synthetic sample data for UI/analytics development only. Not real customer data.",
+  "period": "2025-09-01 to 2026-08-31",
+  "orderCount": 206,
+  "orders": [
+    {
+      "id": "FL0189",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-08-31",
+      "orderTime": "16:50",
+      "items": [
+        {
+          "name": "Garlic Bread",
+          "quantity": 2,
+          "category": "Pizza",
+          "estimatedCalories": 700,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 90,
+          "estimatedFat": 32
+        }
+      ],
+      "subtotal": 298.0,
+      "deliveryFee": 30.0,
+      "taxes": 17.0,
+      "discount": 75.0,
+      "total": 270.0,
+      "estimatedCalories": 700.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 32.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0205",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-08-25",
+      "orderTime": "19:00",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 275,
+          "estimatedProtein": 11,
+          "estimatedCarbs": 34,
+          "estimatedFat": 10
+        },
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 275,
+          "estimatedProtein": 11,
+          "estimatedCarbs": 34,
+          "estimatedFat": 10
+        }
+      ],
+      "subtotal": 348.0,
+      "deliveryFee": 25.0,
+      "taxes": 28.0,
+      "discount": 0.0,
+      "total": 401.0,
+      "estimatedCalories": 550.0,
+      "estimatedProtein": 22.0,
+      "estimatedCarbs": 69.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0194",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-08-22",
+      "orderTime": "18:00",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 0.0,
+      "taxes": 13.0,
+      "discount": 20.0,
+      "total": 292.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0202",
+      "platform": "Zomato",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-08-21",
+      "orderTime": "18:15",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 330,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 50,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 129.0,
+      "deliveryFee": 30.0,
+      "taxes": 10.0,
+      "discount": 50.0,
+      "total": 119.0,
+      "estimatedCalories": 330.0,
+      "estimatedProtein": 4.0,
+      "estimatedCarbs": 50.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0198",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-08-21",
+      "orderTime": "16:45",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 30.0,
+      "taxes": 27.0,
+      "discount": 75.0,
+      "total": 381.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0193",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-08-15",
+      "orderTime": "22:45",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 390,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 48,
+          "estimatedFat": 20
+        },
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 390,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 48,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 358.0,
+      "deliveryFee": 49.0,
+      "taxes": 25.0,
+      "discount": 0.0,
+      "total": 432.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 10.0,
+      "estimatedCarbs": 96.0,
+      "estimatedFat": 40.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0191",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2026-08-13",
+      "orderTime": "20:40",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 40.0,
+      "taxes": 33.0,
+      "discount": 0.0,
+      "total": 502.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0200",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-08-13",
+      "orderTime": "19:40",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 130,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 14,
+          "estimatedFat": 5
+        }
+      ],
+      "subtotal": 149.0,
+      "deliveryFee": 25.0,
+      "taxes": 13.0,
+      "discount": 0.0,
+      "total": 187.0,
+      "estimatedCalories": 130.0,
+      "estimatedProtein": 6.0,
+      "estimatedCarbs": 14.0,
+      "estimatedFat": 5.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0188",
+      "platform": "Swiggy",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-08-13",
+      "orderTime": "13:30",
+      "items": [
+        {
+          "name": "Chicken Roll",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 445,
+          "estimatedProtein": 14,
+          "estimatedCarbs": 52,
+          "estimatedFat": 18
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 445,
+          "estimatedProtein": 14,
+          "estimatedCarbs": 52,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 358.0,
+      "deliveryFee": 25.0,
+      "taxes": 23.0,
+      "discount": 0.0,
+      "total": 406.0,
+      "estimatedCalories": 890.0,
+      "estimatedProtein": 29.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 37.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0206",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2026-08-12",
+      "orderTime": "21:50",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 40.0,
+      "taxes": 25.0,
+      "discount": 75.0,
+      "total": 419.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0195",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2026-08-12",
+      "orderTime": "18:40",
+      "items": [
+        {
+          "name": "Garlic Bread",
+          "quantity": 2,
+          "category": "Pizza",
+          "estimatedCalories": 700,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 90,
+          "estimatedFat": 32
+        }
+      ],
+      "subtotal": 298.0,
+      "deliveryFee": 0.0,
+      "taxes": 13.0,
+      "discount": 0.0,
+      "total": 311.0,
+      "estimatedCalories": 700.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 32.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0196",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-08-11",
+      "orderTime": "18:50",
+      "items": [
+        {
+          "name": "Schezwan Chicken",
+          "quantity": 2,
+          "category": "Chinese",
+          "estimatedCalories": 1300,
+          "estimatedProtein": 84,
+          "estimatedCarbs": 110,
+          "estimatedFat": 56
+        }
+      ],
+      "subtotal": 758.0,
+      "deliveryFee": 30.0,
+      "taxes": 42.0,
+      "discount": 30.0,
+      "total": 800.0,
+      "estimatedCalories": 1300.0,
+      "estimatedProtein": 84.0,
+      "estimatedCarbs": 110.0,
+      "estimatedFat": 56.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0190",
+      "platform": "Zomato",
+      "restaurant": "Haldiram's",
+      "orderDate": "2026-08-11",
+      "orderTime": "18:30",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 615,
+          "estimatedProtein": 14,
+          "estimatedCarbs": 68,
+          "estimatedFat": 27
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 615,
+          "estimatedProtein": 14,
+          "estimatedCarbs": 68,
+          "estimatedFat": 27
+        }
+      ],
+      "subtotal": 508.0,
+      "deliveryFee": 25.0,
+      "taxes": 37.0,
+      "discount": 100.0,
+      "total": 470.0,
+      "estimatedCalories": 1230.0,
+      "estimatedProtein": 29.0,
+      "estimatedCarbs": 135.0,
+      "estimatedFat": 54.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0185",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2026-08-10",
+      "orderTime": "23:10",
+      "items": [
+        {
+          "name": "Chicken Popcorn",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 40,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 40.0,
+      "taxes": 13.0,
+      "discount": 75.0,
+      "total": 227.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 40.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0184",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2026-08-09",
+      "orderTime": "22:50",
+      "items": [
+        {
+          "name": "Veg Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 620,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 279.0,
+      "deliveryFee": 20.0,
+      "taxes": 20.0,
+      "discount": 75.0,
+      "total": 244.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0192",
+      "platform": "Swiggy",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-08-07",
+      "orderTime": "19:10",
+      "items": [
+        {
+          "name": "Rajma Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 560,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 95,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 18.0,
+      "discount": 75.0,
+      "total": 217.0,
+      "estimatedCalories": 560.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0199",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2026-08-07",
+      "orderTime": "16:10",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 765,
+          "estimatedProtein": 22,
+          "estimatedCarbs": 90,
+          "estimatedFat": 30
+        },
+        {
+          "name": "Chocolate Shake",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 765,
+          "estimatedProtein": 22,
+          "estimatedCarbs": 90,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 658.0,
+      "deliveryFee": 40.0,
+      "taxes": 52.0,
+      "discount": 50.0,
+      "total": 700.0,
+      "estimatedCalories": 1530.0,
+      "estimatedProtein": 45.0,
+      "estimatedCarbs": 180.0,
+      "estimatedFat": 61.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0203",
+      "platform": "Zomato",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-08-05",
+      "orderTime": "14:50",
+      "items": [
+        {
+          "name": "Rajma Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 560,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 95,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 30.0,
+      "taxes": 13.0,
+      "discount": 0.0,
+      "total": 292.0,
+      "estimatedCalories": 560.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0201",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-08-04",
+      "orderTime": "11:15",
+      "items": [
+        {
+          "name": "Chicken Fried Rice",
+          "quantity": 1,
+          "category": "Chinese",
+          "estimatedCalories": 780,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 98,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 20.0,
+      "taxes": 23.0,
+      "discount": 75.0,
+      "total": 317.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 98.0,
+      "estimatedFat": 24.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0186",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-08-04",
+      "orderTime": "09:50",
+      "items": [
+        {
+          "name": "Veg Manchurian",
+          "quantity": 2,
+          "category": "Chinese",
+          "estimatedCalories": 775,
+          "estimatedProtein": 17,
+          "estimatedCarbs": 105,
+          "estimatedFat": 31
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 775,
+          "estimatedProtein": 17,
+          "estimatedCarbs": 105,
+          "estimatedFat": 31
+        }
+      ],
+      "subtotal": 727.0,
+      "deliveryFee": 35.0,
+      "taxes": 47.0,
+      "discount": 75.0,
+      "total": 734.0,
+      "estimatedCalories": 1550.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 210.0,
+      "estimatedFat": 62.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0197",
+      "platform": "Zomato",
+      "restaurant": "Faasos",
+      "orderDate": "2026-08-04",
+      "orderTime": "09:10",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 25.0,
+      "taxes": 25.0,
+      "discount": 100.0,
+      "total": 329.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0187",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-08-03",
+      "orderTime": "17:40",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 0.0,
+      "taxes": 28.0,
+      "discount": 20.0,
+      "total": 407.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0204",
+      "platform": "Zomato",
+      "restaurant": "Faasos",
+      "orderDate": "2026-08-02",
+      "orderTime": "15:30",
+      "items": [
+        {
+          "name": "Rajma Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 560,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 95,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 30.0,
+      "taxes": 17.0,
+      "discount": 0.0,
+      "total": 296.0,
+      "estimatedCalories": 560.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0176",
+      "platform": "Swiggy",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-07-31",
+      "orderTime": "21:00",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 660,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 70,
+          "estimatedFat": 28
+        },
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 660,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 70,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 578.0,
+      "deliveryFee": 0.0,
+      "taxes": 28.0,
+      "discount": 100.0,
+      "total": 506.0,
+      "estimatedCalories": 1320.0,
+      "estimatedProtein": 41.0,
+      "estimatedCarbs": 140.0,
+      "estimatedFat": 57.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0175",
+      "platform": "Zomato",
+      "restaurant": "Faasos",
+      "orderDate": "2026-07-31",
+      "orderTime": "20:50",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 30.0,
+      "taxes": 16.0,
+      "discount": 0.0,
+      "total": 345.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0167",
+      "platform": "Swiggy",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-07-29",
+      "orderTime": "16:20",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 35.0,
+      "taxes": 25.0,
+      "discount": 0.0,
+      "total": 359.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0179",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-07-26",
+      "orderTime": "19:45",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 325,
+          "estimatedProtein": 17,
+          "estimatedCarbs": 31,
+          "estimatedFat": 14
+        },
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 325,
+          "estimatedProtein": 17,
+          "estimatedCarbs": 31,
+          "estimatedFat": 14
+        }
+      ],
+      "subtotal": 398.0,
+      "deliveryFee": 40.0,
+      "taxes": 35.0,
+      "discount": 0.0,
+      "total": 473.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 62.0,
+      "estimatedFat": 27.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0183",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-07-25",
+      "orderTime": "23:10",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 400,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 50,
+          "estimatedFat": 20
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 400,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 50,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 348.0,
+      "deliveryFee": 49.0,
+      "taxes": 17.0,
+      "discount": 75.0,
+      "total": 339.0,
+      "estimatedCalories": 800.0,
+      "estimatedProtein": 10.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 41.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0171",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-07-24",
+      "orderTime": "18:50",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 750,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 95,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 20.0,
+      "taxes": 32.0,
+      "discount": 0.0,
+      "total": 451.0,
+      "estimatedCalories": 750.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0172",
+      "platform": "Swiggy",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2026-07-23",
+      "orderTime": "18:45",
+      "items": [
+        {
+          "name": "Veg Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 620,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 279.0,
+      "deliveryFee": 35.0,
+      "taxes": 21.0,
+      "discount": 30.0,
+      "total": 305.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0170",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2026-07-21",
+      "orderTime": "10:40",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 2,
+          "category": "Fast Food",
+          "estimatedCalories": 1300,
+          "estimatedProtein": 76,
+          "estimatedCarbs": 150,
+          "estimatedFat": 36
+        }
+      ],
+      "subtotal": 698.0,
+      "deliveryFee": 35.0,
+      "taxes": 47.0,
+      "discount": 0.0,
+      "total": 780.0,
+      "estimatedCalories": 1300.0,
+      "estimatedProtein": 76.0,
+      "estimatedCarbs": 150.0,
+      "estimatedFat": 36.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0177",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2026-07-20",
+      "orderTime": "20:50",
+      "items": [
+        {
+          "name": "Farmhouse Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 900,
+          "estimatedProtein": 30,
+          "estimatedCarbs": 105,
+          "estimatedFat": 35
+        }
+      ],
+      "subtotal": 549.0,
+      "deliveryFee": 0.0,
+      "taxes": 34.0,
+      "discount": 30.0,
+      "total": 553.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 30.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 35.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0178",
+      "platform": "Swiggy",
+      "restaurant": "Faasos",
+      "orderDate": "2026-07-17",
+      "orderTime": "23:45",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 20.0,
+      "taxes": 20.0,
+      "discount": 30.0,
+      "total": 409.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0173",
+      "platform": "Zomato",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-07-17",
+      "orderTime": "22:10",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 330,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 50,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 129.0,
+      "deliveryFee": 30.0,
+      "taxes": 7.0,
+      "discount": 20.0,
+      "total": 146.0,
+      "estimatedCalories": 330.0,
+      "estimatedProtein": 4.0,
+      "estimatedCarbs": 50.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0168",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-07-16",
+      "orderTime": "09:45",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 330,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 50,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 129.0,
+      "deliveryFee": 25.0,
+      "taxes": 8.0,
+      "discount": 100.0,
+      "total": 99.0,
+      "estimatedCalories": 330.0,
+      "estimatedProtein": 4.0,
+      "estimatedCarbs": 50.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0180",
+      "platform": "Zomato",
+      "restaurant": "Domino's",
+      "orderDate": "2026-07-13",
+      "orderTime": "20:00",
+      "items": [
+        {
+          "name": "Chicken Dominator Pizza",
+          "quantity": 2,
+          "category": "Pizza",
+          "estimatedCalories": 2200,
+          "estimatedProtein": 90,
+          "estimatedCarbs": 250,
+          "estimatedFat": 84
+        }
+      ],
+      "subtotal": 1298.0,
+      "deliveryFee": 40.0,
+      "taxes": 95.0,
+      "discount": 0.0,
+      "total": 1433.0,
+      "estimatedCalories": 2200.0,
+      "estimatedProtein": 90.0,
+      "estimatedCarbs": 250.0,
+      "estimatedFat": 84.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0166",
+      "platform": "Zomato",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-07-13",
+      "orderTime": "18:00",
+      "items": [
+        {
+          "name": "Veg Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 620,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 279.0,
+      "deliveryFee": 35.0,
+      "taxes": 17.0,
+      "discount": 50.0,
+      "total": 281.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0169",
+      "platform": "Zomato",
+      "restaurant": "McDonald's",
+      "orderDate": "2026-07-10",
+      "orderTime": "21:50",
+      "items": [
+        {
+          "name": "Chicken Burger",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 620,
+          "estimatedProtein": 27,
+          "estimatedCarbs": 55,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 219.0,
+      "deliveryFee": 20.0,
+      "taxes": 13.0,
+      "discount": 30.0,
+      "total": 222.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 27.0,
+      "estimatedCarbs": 55.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0174",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-07-09",
+      "orderTime": "20:30",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 49.0,
+      "taxes": 22.0,
+      "discount": 50.0,
+      "total": 420.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0181",
+      "platform": "Zomato",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-07-07",
+      "orderTime": "23:50",
+      "items": [
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 48,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 21.0,
+      "discount": 0.0,
+      "total": 295.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 22.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0182",
+      "platform": "Swiggy",
+      "restaurant": "Social",
+      "orderDate": "2026-07-01",
+      "orderTime": "23:15",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 35.0,
+      "taxes": 32.0,
+      "discount": 75.0,
+      "total": 391.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0158",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2026-06-30",
+      "orderTime": "22:20",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 35.0,
+      "taxes": 24.0,
+      "discount": 100.0,
+      "total": 358.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0165",
+      "platform": "Zomato",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-06-30",
+      "orderTime": "21:00",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 685,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 56,
+          "estimatedFat": 30
+        },
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 685,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 56,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 648.0,
+      "deliveryFee": 30.0,
+      "taxes": 43.0,
+      "discount": 0.0,
+      "total": 721.0,
+      "estimatedCalories": 1370.0,
+      "estimatedProtein": 70.0,
+      "estimatedCarbs": 113.0,
+      "estimatedFat": 60.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0162",
+      "platform": "Swiggy",
+      "restaurant": "Faasos",
+      "orderDate": "2026-06-30",
+      "orderTime": "19:45",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 40.0,
+      "taxes": 33.0,
+      "discount": 50.0,
+      "total": 402.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0153",
+      "platform": "Swiggy",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-06-29",
+      "orderTime": "21:45",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 410,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 52,
+          "estimatedFat": 21
+        }
+      ],
+      "subtotal": 169.0,
+      "deliveryFee": 25.0,
+      "taxes": 15.0,
+      "discount": 0.0,
+      "total": 209.0,
+      "estimatedCalories": 410.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 21.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0163",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2026-06-28",
+      "orderTime": "22:45",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 650,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 75,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 20.0,
+      "taxes": 29.0,
+      "discount": 75.0,
+      "total": 323.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 38.0,
+      "estimatedCarbs": 75.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0155",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2026-06-24",
+      "orderTime": "19:15",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 750,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 95,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 49.0,
+      "taxes": 21.0,
+      "discount": 75.0,
+      "total": 394.0,
+      "estimatedCalories": 750.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0159",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-06-22",
+      "orderTime": "21:50",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 390,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 48,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 179.0,
+      "deliveryFee": 0.0,
+      "taxes": 8.0,
+      "discount": 20.0,
+      "total": 167.0,
+      "estimatedCalories": 390.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0154",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-06-20",
+      "orderTime": "09:30",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 385,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 54,
+          "estimatedFat": 12
+        },
+        {
+          "name": "Chicken Roll",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 385,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 54,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 328.0,
+      "deliveryFee": 25.0,
+      "taxes": 17.0,
+      "discount": 0.0,
+      "total": 370.0,
+      "estimatedCalories": 770.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 107.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0149",
+      "platform": "Swiggy",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-06-19",
+      "orderTime": "20:45",
+      "items": [
+        {
+          "name": "Chicken Fried Rice",
+          "quantity": 1,
+          "category": "Chinese",
+          "estimatedCalories": 780,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 98,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 40.0,
+      "taxes": 17.0,
+      "discount": 100.0,
+      "total": 306.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 98.0,
+      "estimatedFat": 24.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0157",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-06-19",
+      "orderTime": "17:30",
+      "items": [
+        {
+          "name": "Chicken Fried Rice",
+          "quantity": 2,
+          "category": "Chinese",
+          "estimatedCalories": 985,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 124,
+          "estimatedFat": 34
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 985,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 124,
+          "estimatedFat": 34
+        }
+      ],
+      "subtotal": 867.0,
+      "deliveryFee": 30.0,
+      "taxes": 60.0,
+      "discount": 30.0,
+      "total": 927.0,
+      "estimatedCalories": 1970.0,
+      "estimatedProtein": 75.0,
+      "estimatedCarbs": 248.0,
+      "estimatedFat": 69.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0161",
+      "platform": "Zomato",
+      "restaurant": "Domino's",
+      "orderDate": "2026-06-19",
+      "orderTime": "10:30",
+      "items": [
+        {
+          "name": "Garlic Bread",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 315,
+          "estimatedProtein": 8,
+          "estimatedCarbs": 44,
+          "estimatedFat": 12
+        },
+        {
+          "name": "Cold Coffee",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 315,
+          "estimatedProtein": 8,
+          "estimatedCarbs": 44,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 328.0,
+      "deliveryFee": 0.0,
+      "taxes": 19.0,
+      "discount": 0.0,
+      "total": 347.0,
+      "estimatedCalories": 630.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 87.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0150",
+      "platform": "Zomato",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-06-16",
+      "orderTime": "15:30",
+      "items": [
+        {
+          "name": "Veg Momos",
+          "quantity": 2,
+          "category": "Snacks",
+          "estimatedCalories": 840,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 110,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 398.0,
+      "deliveryFee": 20.0,
+      "taxes": 21.0,
+      "discount": 20.0,
+      "total": 419.0,
+      "estimatedCalories": 840.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 110.0,
+      "estimatedFat": 30.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0160",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-06-11",
+      "orderTime": "22:10",
+      "items": [
+        {
+          "name": "Garlic Bread",
+          "quantity": 2,
+          "category": "Pizza",
+          "estimatedCalories": 700,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 90,
+          "estimatedFat": 32
+        }
+      ],
+      "subtotal": 298.0,
+      "deliveryFee": 49.0,
+      "taxes": 15.0,
+      "discount": 0.0,
+      "total": 362.0,
+      "estimatedCalories": 700.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 32.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0156",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-06-11",
+      "orderTime": "07:15",
+      "items": [
+        {
+          "name": "Chicken Kebab",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 405,
+          "estimatedProtein": 23,
+          "estimatedCarbs": 31,
+          "estimatedFat": 18
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 405,
+          "estimatedProtein": 23,
+          "estimatedCarbs": 31,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 428.0,
+      "deliveryFee": 20.0,
+      "taxes": 26.0,
+      "discount": 30.0,
+      "total": 444.0,
+      "estimatedCalories": 810.0,
+      "estimatedProtein": 46.0,
+      "estimatedCarbs": 62.0,
+      "estimatedFat": 36.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0148",
+      "platform": "Swiggy",
+      "restaurant": "Subway",
+      "orderDate": "2026-06-09",
+      "orderTime": "18:30",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 650,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 75,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 30.0,
+      "taxes": 20.0,
+      "discount": 30.0,
+      "total": 369.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 38.0,
+      "estimatedCarbs": 75.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0164",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-06-08",
+      "orderTime": "21:30",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 20.0,
+      "taxes": 7.0,
+      "discount": 0.0,
+      "total": 126.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0152",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2026-06-07",
+      "orderTime": "22:40",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 670,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 78,
+          "estimatedFat": 26
+        },
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 670,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 78,
+          "estimatedFat": 26
+        }
+      ],
+      "subtotal": 548.0,
+      "deliveryFee": 35.0,
+      "taxes": 41.0,
+      "discount": 0.0,
+      "total": 624.0,
+      "estimatedCalories": 1340.0,
+      "estimatedProtein": 48.0,
+      "estimatedCarbs": 155.0,
+      "estimatedFat": 53.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0151",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-06-04",
+      "orderTime": "20:10",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 780,
+          "estimatedProtein": 34,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 329.0,
+      "deliveryFee": 20.0,
+      "taxes": 20.0,
+      "discount": 100.0,
+      "total": 269.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 82.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0145",
+      "platform": "Zomato",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-05-31",
+      "orderTime": "18:00",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 410,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 52,
+          "estimatedFat": 21
+        }
+      ],
+      "subtotal": 169.0,
+      "deliveryFee": 49.0,
+      "taxes": 16.0,
+      "discount": 0.0,
+      "total": 234.0,
+      "estimatedCalories": 410.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 21.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0136",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-05-26",
+      "orderTime": "22:30",
+      "items": [
+        {
+          "name": "Cold Coffee",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 305,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 46,
+          "estimatedFat": 10
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 305,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 46,
+          "estimatedFat": 10
+        }
+      ],
+      "subtotal": 308.0,
+      "deliveryFee": 30.0,
+      "taxes": 16.0,
+      "discount": 0.0,
+      "total": 354.0,
+      "estimatedCalories": 610.0,
+      "estimatedProtein": 12.0,
+      "estimatedCarbs": 92.0,
+      "estimatedFat": 21.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0146",
+      "platform": "Zomato",
+      "restaurant": "Domino's",
+      "orderDate": "2026-05-19",
+      "orderTime": "21:20",
+      "items": [
+        {
+          "name": "Garlic Bread",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 385,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 50,
+          "estimatedFat": 16
+        },
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 385,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 50,
+          "estimatedFat": 16
+        }
+      ],
+      "subtotal": 348.0,
+      "deliveryFee": 30.0,
+      "taxes": 23.0,
+      "discount": 100.0,
+      "total": 301.0,
+      "estimatedCalories": 770.0,
+      "estimatedProtein": 24.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 31.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0144",
+      "platform": "Swiggy",
+      "restaurant": "Haldiram's",
+      "orderDate": "2026-05-19",
+      "orderTime": "17:40",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 49.0,
+      "taxes": 34.0,
+      "discount": 0.0,
+      "total": 482.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0133",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-05-17",
+      "orderTime": "21:10",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 415,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 54,
+          "estimatedFat": 18
+        },
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 415,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 54,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 368.0,
+      "deliveryFee": 25.0,
+      "taxes": 31.0,
+      "discount": 30.0,
+      "total": 394.0,
+      "estimatedCalories": 830.0,
+      "estimatedProtein": 21.0,
+      "estimatedCarbs": 107.0,
+      "estimatedFat": 36.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0143",
+      "platform": "Swiggy",
+      "restaurant": "Haldiram's",
+      "orderDate": "2026-05-17",
+      "orderTime": "18:40",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 49.0,
+      "taxes": 22.0,
+      "discount": 50.0,
+      "total": 400.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0139",
+      "platform": "Zomato",
+      "restaurant": "Domino's",
+      "orderDate": "2026-05-15",
+      "orderTime": "19:50",
+      "items": [
+        {
+          "name": "Farmhouse Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 900,
+          "estimatedProtein": 30,
+          "estimatedCarbs": 105,
+          "estimatedFat": 35
+        }
+      ],
+      "subtotal": 549.0,
+      "deliveryFee": 20.0,
+      "taxes": 28.0,
+      "discount": 50.0,
+      "total": 547.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 30.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 35.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0142",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-05-13",
+      "orderTime": "19:40",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 0.0,
+      "taxes": 17.0,
+      "discount": 0.0,
+      "total": 416.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0141",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2026-05-13",
+      "orderTime": "08:40",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 920,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 100,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 35.0,
+      "taxes": 20.0,
+      "discount": 0.0,
+      "total": 404.0,
+      "estimatedCalories": 920.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0137",
+      "platform": "Zomato",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-05-11",
+      "orderTime": "22:45",
+      "items": [
+        {
+          "name": "Veg Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 415,
+          "estimatedProtein": 9,
+          "estimatedCarbs": 71,
+          "estimatedFat": 10
+        },
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 415,
+          "estimatedProtein": 9,
+          "estimatedCarbs": 71,
+          "estimatedFat": 10
+        }
+      ],
+      "subtotal": 378.0,
+      "deliveryFee": 0.0,
+      "taxes": 19.0,
+      "discount": 20.0,
+      "total": 377.0,
+      "estimatedCalories": 830.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 142.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0140",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2026-05-10",
+      "orderTime": "20:30",
+      "items": [
+        {
+          "name": "Farmhouse Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 900,
+          "estimatedProtein": 30,
+          "estimatedCarbs": 105,
+          "estimatedFat": 35
+        }
+      ],
+      "subtotal": 549.0,
+      "deliveryFee": 40.0,
+      "taxes": 32.0,
+      "discount": 75.0,
+      "total": 546.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 30.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 35.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0134",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2026-05-07",
+      "orderTime": "19:15",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 670,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 78,
+          "estimatedFat": 26
+        },
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 670,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 78,
+          "estimatedFat": 26
+        }
+      ],
+      "subtotal": 548.0,
+      "deliveryFee": 20.0,
+      "taxes": 38.0,
+      "discount": 50.0,
+      "total": 556.0,
+      "estimatedCalories": 1340.0,
+      "estimatedProtein": 48.0,
+      "estimatedCarbs": 155.0,
+      "estimatedFat": 53.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0132",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-05-05",
+      "orderTime": "23:10",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 49.0,
+      "taxes": 11.0,
+      "discount": 0.0,
+      "total": 159.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0147",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-05-05",
+      "orderTime": "19:50",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 360,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 52,
+          "estimatedFat": 14
+        },
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 360,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 52,
+          "estimatedFat": 14
+        }
+      ],
+      "subtotal": 278.0,
+      "deliveryFee": 35.0,
+      "taxes": 17.0,
+      "discount": 30.0,
+      "total": 300.0,
+      "estimatedCalories": 720.0,
+      "estimatedProtein": 12.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 27.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0135",
+      "platform": "Swiggy",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-05-03",
+      "orderTime": "09:20",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 25.0,
+      "taxes": 28.0,
+      "discount": 30.0,
+      "total": 422.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0138",
+      "platform": "Swiggy",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2026-05-02",
+      "orderTime": "20:45",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 40.0,
+      "taxes": 23.0,
+      "discount": 0.0,
+      "total": 462.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0115",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2026-04-29",
+      "orderTime": "20:10",
+      "items": [
+        {
+          "name": "Chicken Kebab",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 480,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 12,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 30.0,
+      "taxes": 14.0,
+      "discount": 50.0,
+      "total": 293.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 12.0,
+      "estimatedFat": 24.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0114",
+      "platform": "Swiggy",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-04-26",
+      "orderTime": "19:00",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 425,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 49,
+          "estimatedFat": 17
+        },
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 425,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 49,
+          "estimatedFat": 17
+        }
+      ],
+      "subtotal": 378.0,
+      "deliveryFee": 25.0,
+      "taxes": 17.0,
+      "discount": 0.0,
+      "total": 420.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 98.0,
+      "estimatedFat": 34.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0129",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-04-23",
+      "orderTime": "19:50",
+      "items": [
+        {
+          "name": "Farmhouse Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 555,
+          "estimatedProtein": 15,
+          "estimatedCarbs": 78,
+          "estimatedFat": 18
+        },
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 555,
+          "estimatedProtein": 15,
+          "estimatedCarbs": 78,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 648.0,
+      "deliveryFee": 0.0,
+      "taxes": 47.0,
+      "discount": 50.0,
+      "total": 645.0,
+      "estimatedCalories": 1110.0,
+      "estimatedProtein": 30.0,
+      "estimatedCarbs": 157.0,
+      "estimatedFat": 35.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0126",
+      "platform": "Swiggy",
+      "restaurant": "Social",
+      "orderDate": "2026-04-21",
+      "orderTime": "21:10",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 20.0,
+      "taxes": 25.0,
+      "discount": 0.0,
+      "total": 344.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0124",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2026-04-16",
+      "orderTime": "19:30",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 2,
+          "category": "Fast Food",
+          "estimatedCalories": 960,
+          "estimatedProtein": 36,
+          "estimatedCarbs": 130,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 498.0,
+      "deliveryFee": 49.0,
+      "taxes": 26.0,
+      "discount": 30.0,
+      "total": 543.0,
+      "estimatedCalories": 960.0,
+      "estimatedProtein": 36.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 30.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0119",
+      "platform": "Swiggy",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-04-14",
+      "orderTime": "09:20",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 655,
+          "estimatedProtein": 15,
+          "estimatedCarbs": 68,
+          "estimatedFat": 32
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 655,
+          "estimatedProtein": 15,
+          "estimatedCarbs": 68,
+          "estimatedFat": 32
+        }
+      ],
+      "subtotal": 548.0,
+      "deliveryFee": 35.0,
+      "taxes": 36.0,
+      "discount": 0.0,
+      "total": 619.0,
+      "estimatedCalories": 1310.0,
+      "estimatedProtein": 30.0,
+      "estimatedCarbs": 137.0,
+      "estimatedFat": 63.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0123",
+      "platform": "Swiggy",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-04-12",
+      "orderTime": "21:40",
+      "items": [
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 48,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 30.0,
+      "taxes": 19.0,
+      "discount": 75.0,
+      "total": 223.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 22.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0128",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2026-04-12",
+      "orderTime": "19:20",
+      "items": [
+        {
+          "name": "McChicken Burger Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 850,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 95,
+          "estimatedFat": 34
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 30.0,
+      "taxes": 25.0,
+      "discount": 0.0,
+      "total": 354.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 34.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0113",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-04-08",
+      "orderTime": "20:20",
+      "items": [
+        {
+          "name": "Schezwan Chicken",
+          "quantity": 1,
+          "category": "Chinese",
+          "estimatedCalories": 650,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 55,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 30.0,
+      "taxes": 25.0,
+      "discount": 75.0,
+      "total": 359.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 55.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0122",
+      "platform": "Zomato",
+      "restaurant": "Haldiram's",
+      "orderDate": "2026-04-07",
+      "orderTime": "08:00",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 35.0,
+      "taxes": 20.0,
+      "discount": 0.0,
+      "total": 354.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0127",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-04-05",
+      "orderTime": "09:40",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 25.0,
+      "taxes": 23.0,
+      "discount": 0.0,
+      "total": 447.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0118",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2026-04-04",
+      "orderTime": "10:50",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 920,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 100,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 35.0,
+      "taxes": 16.0,
+      "discount": 20.0,
+      "total": 380.0,
+      "estimatedCalories": 920.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0125",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-04-03",
+      "orderTime": "19:30",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 30.0,
+      "taxes": 5.0,
+      "discount": 50.0,
+      "total": 99.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0130",
+      "platform": "Zomato",
+      "restaurant": "Faasos",
+      "orderDate": "2026-04-03",
+      "orderTime": "19:30",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 0.0,
+      "taxes": 30.0,
+      "discount": 0.0,
+      "total": 409.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0116",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2026-04-03",
+      "orderTime": "17:40",
+      "items": [
+        {
+          "name": "McVeggie Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 525,
+          "estimatedProtein": 11,
+          "estimatedCarbs": 70,
+          "estimatedFat": 20
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 525,
+          "estimatedProtein": 11,
+          "estimatedCarbs": 70,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 378.0,
+      "deliveryFee": 40.0,
+      "taxes": 31.0,
+      "discount": 100.0,
+      "total": 349.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 22.0,
+      "estimatedCarbs": 140.0,
+      "estimatedFat": 39.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0120",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2026-04-02",
+      "orderTime": "19:30",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 750,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 95,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 40.0,
+      "taxes": 29.0,
+      "discount": 0.0,
+      "total": 468.0,
+      "estimatedCalories": 750.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0121",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-04-02",
+      "orderTime": "19:15",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 0.0,
+      "taxes": 7.0,
+      "discount": 100.0,
+      "total": 99.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0117",
+      "platform": "Zomato",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-04-01",
+      "orderTime": "21:30",
+      "items": [
+        {
+          "name": "Chicken Dominator Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 1100,
+          "estimatedProtein": 45,
+          "estimatedCarbs": 125,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 649.0,
+      "deliveryFee": 35.0,
+      "taxes": 39.0,
+      "discount": 30.0,
+      "total": 693.0,
+      "estimatedCalories": 1100.0,
+      "estimatedProtein": 45.0,
+      "estimatedCarbs": 125.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0131",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-04-01",
+      "orderTime": "19:50",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 2,
+          "category": "Biryani",
+          "estimatedCalories": 1560,
+          "estimatedProtein": 68,
+          "estimatedCarbs": 164,
+          "estimatedFat": 56
+        }
+      ],
+      "subtotal": 658.0,
+      "deliveryFee": 40.0,
+      "taxes": 48.0,
+      "discount": 75.0,
+      "total": 671.0,
+      "estimatedCalories": 1560.0,
+      "estimatedProtein": 68.0,
+      "estimatedCarbs": 164.0,
+      "estimatedFat": 56.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0110",
+      "platform": "Zomato",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-03-23",
+      "orderTime": "23:10",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 2,
+          "category": "Indian",
+          "estimatedCalories": 1360,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 210,
+          "estimatedFat": 40
+        }
+      ],
+      "subtotal": 598.0,
+      "deliveryFee": 20.0,
+      "taxes": 33.0,
+      "discount": 100.0,
+      "total": 551.0,
+      "estimatedCalories": 1360.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 210.0,
+      "estimatedFat": 40.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0109",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-03-22",
+      "orderTime": "13:30",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 25.0,
+      "taxes": 25.0,
+      "discount": 50.0,
+      "total": 379.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0108",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-03-21",
+      "orderTime": "19:10",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 35.0,
+      "taxes": 25.0,
+      "discount": 50.0,
+      "total": 309.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0106",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-03-21",
+      "orderTime": "15:50",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 410,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 52,
+          "estimatedFat": 21
+        }
+      ],
+      "subtotal": 169.0,
+      "deliveryFee": 49.0,
+      "taxes": 17.0,
+      "discount": 50.0,
+      "total": 185.0,
+      "estimatedCalories": 410.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 21.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0107",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-03-21",
+      "orderTime": "12:50",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 130,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 14,
+          "estimatedFat": 5
+        }
+      ],
+      "subtotal": 149.0,
+      "deliveryFee": 30.0,
+      "taxes": 10.0,
+      "discount": 50.0,
+      "total": 139.0,
+      "estimatedCalories": 130.0,
+      "estimatedProtein": 6.0,
+      "estimatedCarbs": 14.0,
+      "estimatedFat": 5.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0099",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-03-16",
+      "orderTime": "21:15",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 49.0,
+      "taxes": 23.0,
+      "discount": 75.0,
+      "total": 376.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0101",
+      "platform": "Swiggy",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-03-15",
+      "orderTime": "22:10",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 35.0,
+      "taxes": 19.0,
+      "discount": 30.0,
+      "total": 423.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0097",
+      "platform": "Swiggy",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-03-14",
+      "orderTime": "20:45",
+      "items": [
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 415,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 54,
+          "estimatedFat": 18
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 415,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 54,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 368.0,
+      "deliveryFee": 25.0,
+      "taxes": 26.0,
+      "discount": 100.0,
+      "total": 319.0,
+      "estimatedCalories": 830.0,
+      "estimatedProtein": 21.0,
+      "estimatedCarbs": 107.0,
+      "estimatedFat": 36.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0102",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-03-11",
+      "orderTime": "21:10",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 390,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 48,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 179.0,
+      "deliveryFee": 25.0,
+      "taxes": 14.0,
+      "discount": 0.0,
+      "total": 218.0,
+      "estimatedCalories": 390.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0096",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2026-03-11",
+      "orderTime": "13:40",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 920,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 100,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 0.0,
+      "taxes": 23.0,
+      "discount": 30.0,
+      "total": 342.0,
+      "estimatedCalories": 920.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0104",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-03-11",
+      "orderTime": "11:50",
+      "items": [
+        {
+          "name": "Chocolate Shake",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 480,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 65,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 229.0,
+      "deliveryFee": 25.0,
+      "taxes": 15.0,
+      "discount": 30.0,
+      "total": 239.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 10.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0098",
+      "platform": "Zomato",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-03-08",
+      "orderTime": "17:00",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 750,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 95,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 49.0,
+      "taxes": 22.0,
+      "discount": 50.0,
+      "total": 420.0,
+      "estimatedCalories": 750.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0112",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-03-06",
+      "orderTime": "16:15",
+      "items": [
+        {
+          "name": "Cold Coffee",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 280,
+          "estimatedProtein": 8,
+          "estimatedCarbs": 42,
+          "estimatedFat": 9
+        }
+      ],
+      "subtotal": 179.0,
+      "deliveryFee": 20.0,
+      "taxes": 16.0,
+      "discount": 30.0,
+      "total": 185.0,
+      "estimatedCalories": 280.0,
+      "estimatedProtein": 8.0,
+      "estimatedCarbs": 42.0,
+      "estimatedFat": 9.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0111",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-03-05",
+      "orderTime": "13:10",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 390,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 48,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 179.0,
+      "deliveryFee": 0.0,
+      "taxes": 12.0,
+      "discount": 0.0,
+      "total": 191.0,
+      "estimatedCalories": 390.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0103",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2026-03-05",
+      "orderTime": "12:15",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 650,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 75,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 30.0,
+      "taxes": 27.0,
+      "discount": 100.0,
+      "total": 306.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 38.0,
+      "estimatedCarbs": 75.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0105",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2026-03-02",
+      "orderTime": "09:10",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 480,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 65,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 49.0,
+      "taxes": 21.0,
+      "discount": 0.0,
+      "total": 319.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 15.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0100",
+      "platform": "Zomato",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2026-03-01",
+      "orderTime": "17:40",
+      "items": [
+        {
+          "name": "Rajma Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 560,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 95,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 0.0,
+      "taxes": 14.0,
+      "discount": 50.0,
+      "total": 213.0,
+      "estimatedCalories": 560.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0095",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2026-02-28",
+      "orderTime": "16:45",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 650,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 75,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 0.0,
+      "taxes": 24.0,
+      "discount": 20.0,
+      "total": 353.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 38.0,
+      "estimatedCarbs": 75.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0088",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-02-26",
+      "orderTime": "23:30",
+      "items": [
+        {
+          "name": "Cold Coffee",
+          "quantity": 2,
+          "category": "Beverages",
+          "estimatedCalories": 560,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 84,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 358.0,
+      "deliveryFee": 30.0,
+      "taxes": 22.0,
+      "discount": 0.0,
+      "total": 410.0,
+      "estimatedCalories": 560.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 84.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0085",
+      "platform": "Zomato",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2026-02-26",
+      "orderTime": "17:20",
+      "items": [
+        {
+          "name": "Chicken Dominator Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 810,
+          "estimatedProtein": 36,
+          "estimatedCarbs": 86,
+          "estimatedFat": 32
+        },
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 810,
+          "estimatedProtein": 36,
+          "estimatedCarbs": 86,
+          "estimatedFat": 32
+        }
+      ],
+      "subtotal": 898.0,
+      "deliveryFee": 25.0,
+      "taxes": 69.0,
+      "discount": 0.0,
+      "total": 992.0,
+      "estimatedCalories": 1620.0,
+      "estimatedProtein": 73.0,
+      "estimatedCarbs": 173.0,
+      "estimatedFat": 64.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0094",
+      "platform": "Zomato",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-02-25",
+      "orderTime": "23:00",
+      "items": [
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 48,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 21.0,
+      "discount": 50.0,
+      "total": 245.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 22.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0091",
+      "platform": "Zomato",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-02-24",
+      "orderTime": "10:40",
+      "items": [
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 390,
+          "estimatedProtein": 8,
+          "estimatedCarbs": 55,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 149.0,
+      "deliveryFee": 30.0,
+      "taxes": 8.0,
+      "discount": 0.0,
+      "total": 187.0,
+      "estimatedCalories": 390.0,
+      "estimatedProtein": 8.0,
+      "estimatedCarbs": 55.0,
+      "estimatedFat": 15.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0083",
+      "platform": "Swiggy",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2026-02-21",
+      "orderTime": "10:45",
+      "items": [
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 465,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 50,
+          "estimatedFat": 22
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 465,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 50,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 418.0,
+      "deliveryFee": 49.0,
+      "taxes": 25.0,
+      "discount": 50.0,
+      "total": 442.0,
+      "estimatedCalories": 930.0,
+      "estimatedProtein": 33.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0093",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-02-20",
+      "orderTime": "17:20",
+      "items": [
+        {
+          "name": "Chicken Kebab",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 435,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 34,
+          "estimatedFat": 20
+        },
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 435,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 34,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 448.0,
+      "deliveryFee": 0.0,
+      "taxes": 32.0,
+      "discount": 20.0,
+      "total": 460.0,
+      "estimatedCalories": 870.0,
+      "estimatedProtein": 50.0,
+      "estimatedCarbs": 67.0,
+      "estimatedFat": 39.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0090",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2026-02-17",
+      "orderTime": "20:10",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 30.0,
+      "taxes": 25.0,
+      "discount": 100.0,
+      "total": 384.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0089",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-02-15",
+      "orderTime": "07:40",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 780,
+          "estimatedProtein": 34,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 329.0,
+      "deliveryFee": 35.0,
+      "taxes": 23.0,
+      "discount": 50.0,
+      "total": 337.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 82.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0084",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2026-02-13",
+      "orderTime": "11:50",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 650,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 75,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 0.0,
+      "taxes": 15.0,
+      "discount": 50.0,
+      "total": 314.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 38.0,
+      "estimatedCarbs": 75.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0086",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-02-09",
+      "orderTime": "21:00",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 780,
+          "estimatedProtein": 34,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 329.0,
+      "deliveryFee": 35.0,
+      "taxes": 19.0,
+      "discount": 0.0,
+      "total": 383.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 82.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0087",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2026-02-05",
+      "orderTime": "23:10",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 480,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 65,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 35.0,
+      "taxes": 13.0,
+      "discount": 20.0,
+      "total": 277.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 15.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0092",
+      "platform": "Zomato",
+      "restaurant": "McDonald's",
+      "orderDate": "2026-02-04",
+      "orderTime": "22:15",
+      "items": [
+        {
+          "name": "McVeggie Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 720,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 27
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 49.0,
+      "taxes": 20.0,
+      "discount": 75.0,
+      "total": 243.0,
+      "estimatedCalories": 720.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 27.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0082",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2026-02-02",
+      "orderTime": "20:10",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 690,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 690,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 558.0,
+      "deliveryFee": 40.0,
+      "taxes": 47.0,
+      "discount": 75.0,
+      "total": 570.0,
+      "estimatedCalories": 1380.0,
+      "estimatedProtein": 39.0,
+      "estimatedCarbs": 165.0,
+      "estimatedFat": 55.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0070",
+      "platform": "Zomato",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2026-01-30",
+      "orderTime": "18:45",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 780,
+          "estimatedProtein": 34,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 329.0,
+      "deliveryFee": 25.0,
+      "taxes": 23.0,
+      "discount": 75.0,
+      "total": 302.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 82.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0075",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2026-01-28",
+      "orderTime": "20:50",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 25.0,
+      "taxes": 36.0,
+      "discount": 30.0,
+      "total": 460.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0071",
+      "platform": "Zomato",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-01-28",
+      "orderTime": "20:40",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 2,
+          "category": "Desserts",
+          "estimatedCalories": 585,
+          "estimatedProtein": 9,
+          "estimatedCarbs": 76,
+          "estimatedFat": 28
+        },
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 585,
+          "estimatedProtein": 9,
+          "estimatedCarbs": 76,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 507.0,
+      "deliveryFee": 20.0,
+      "taxes": 37.0,
+      "discount": 75.0,
+      "total": 489.0,
+      "estimatedCalories": 1170.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 151.0,
+      "estimatedFat": 55.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0079",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2026-01-28",
+      "orderTime": "17:50",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 605,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 65,
+          "estimatedFat": 22
+        },
+        {
+          "name": "Chicken Roll",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 605,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 65,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 578.0,
+      "deliveryFee": 49.0,
+      "taxes": 45.0,
+      "discount": 50.0,
+      "total": 622.0,
+      "estimatedCalories": 1210.0,
+      "estimatedProtein": 63.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0066",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-01-27",
+      "orderTime": "20:20",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 130,
+          "estimatedProtein": 6,
+          "estimatedCarbs": 14,
+          "estimatedFat": 5
+        }
+      ],
+      "subtotal": 149.0,
+      "deliveryFee": 35.0,
+      "taxes": 13.0,
+      "discount": 0.0,
+      "total": 197.0,
+      "estimatedCalories": 130.0,
+      "estimatedProtein": 6.0,
+      "estimatedCarbs": 14.0,
+      "estimatedFat": 5.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0067",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-01-25",
+      "orderTime": "22:40",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 330,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 50,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 129.0,
+      "deliveryFee": 25.0,
+      "taxes": 11.0,
+      "discount": 100.0,
+      "total": 99.0,
+      "estimatedCalories": 330.0,
+      "estimatedProtein": 4.0,
+      "estimatedCarbs": 50.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0072",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2026-01-23",
+      "orderTime": "22:15",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 2,
+          "category": "Fast Food",
+          "estimatedCalories": 1840,
+          "estimatedProtein": 64,
+          "estimatedCarbs": 200,
+          "estimatedFat": 76
+        }
+      ],
+      "subtotal": 698.0,
+      "deliveryFee": 25.0,
+      "taxes": 39.0,
+      "discount": 75.0,
+      "total": 687.0,
+      "estimatedCalories": 1840.0,
+      "estimatedProtein": 64.0,
+      "estimatedCarbs": 200.0,
+      "estimatedFat": 76.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0074",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-01-21",
+      "orderTime": "13:00",
+      "items": [
+        {
+          "name": "Chocolate Shake",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 405,
+          "estimatedProtein": 7,
+          "estimatedCarbs": 58,
+          "estimatedFat": 15
+        },
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 405,
+          "estimatedProtein": 7,
+          "estimatedCarbs": 58,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 358.0,
+      "deliveryFee": 35.0,
+      "taxes": 20.0,
+      "discount": 75.0,
+      "total": 338.0,
+      "estimatedCalories": 810.0,
+      "estimatedProtein": 14.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 30.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0081",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2026-01-20",
+      "orderTime": "23:40",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 780,
+          "estimatedProtein": 34,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 329.0,
+      "deliveryFee": 40.0,
+      "taxes": 19.0,
+      "discount": 75.0,
+      "total": 313.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 82.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0068",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2026-01-18",
+      "orderTime": "19:45",
+      "items": [
+        {
+          "name": "Chocolate Shake",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 480,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 65,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 229.0,
+      "deliveryFee": 20.0,
+      "taxes": 16.0,
+      "discount": 20.0,
+      "total": 245.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 10.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0073",
+      "platform": "Zomato",
+      "restaurant": "Faasos",
+      "orderDate": "2026-01-17",
+      "orderTime": "18:15",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 40.0,
+      "taxes": 22.0,
+      "discount": 0.0,
+      "total": 461.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0078",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2026-01-14",
+      "orderTime": "12:40",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 390,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 48,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 179.0,
+      "deliveryFee": 25.0,
+      "taxes": 16.0,
+      "discount": 100.0,
+      "total": 120.0,
+      "estimatedCalories": 390.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 48.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0076",
+      "platform": "Zomato",
+      "restaurant": "Theobroma",
+      "orderDate": "2026-01-13",
+      "orderTime": "15:00",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 370,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 51,
+          "estimatedFat": 16
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 370,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 51,
+          "estimatedFat": 16
+        }
+      ],
+      "subtotal": 298.0,
+      "deliveryFee": 40.0,
+      "taxes": 16.0,
+      "discount": 30.0,
+      "total": 324.0,
+      "estimatedCalories": 740.0,
+      "estimatedProtein": 9.0,
+      "estimatedCarbs": 102.0,
+      "estimatedFat": 33.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0069",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2026-01-11",
+      "orderTime": "23:45",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 645,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 70,
+          "estimatedFat": 28
+        },
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 645,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 70,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 528.0,
+      "deliveryFee": 49.0,
+      "taxes": 25.0,
+      "discount": 100.0,
+      "total": 502.0,
+      "estimatedCalories": 1290.0,
+      "estimatedProtein": 33.0,
+      "estimatedCarbs": 140.0,
+      "estimatedFat": 57.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0077",
+      "platform": "Swiggy",
+      "restaurant": "Subway",
+      "orderDate": "2026-01-04",
+      "orderTime": "23:00",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 2,
+          "category": "Fast Food",
+          "estimatedCalories": 960,
+          "estimatedProtein": 36,
+          "estimatedCarbs": 130,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 498.0,
+      "deliveryFee": 20.0,
+      "taxes": 23.0,
+      "discount": 30.0,
+      "total": 511.0,
+      "estimatedCalories": 960.0,
+      "estimatedProtein": 36.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 30.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0065",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2026-01-01",
+      "orderTime": "17:20",
+      "items": [
+        {
+          "name": "Chicken Burger",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 620,
+          "estimatedProtein": 27,
+          "estimatedCarbs": 55,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 219.0,
+      "deliveryFee": 20.0,
+      "taxes": 14.0,
+      "discount": 30.0,
+      "total": 223.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 27.0,
+      "estimatedCarbs": 55.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0080",
+      "platform": "Swiggy",
+      "restaurant": "Mainland China",
+      "orderDate": "2026-01-01",
+      "orderTime": "11:50",
+      "items": [
+        {
+          "name": "Veg Manchurian",
+          "quantity": 1,
+          "category": "Chinese",
+          "estimatedCalories": 610,
+          "estimatedProtein": 15,
+          "estimatedCarbs": 80,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 25.0,
+      "taxes": 14.0,
+      "discount": 20.0,
+      "total": 318.0,
+      "estimatedCalories": 610.0,
+      "estimatedProtein": 15.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0054",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2025-12-31",
+      "orderTime": "14:10",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 750,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 95,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 20.0,
+      "taxes": 33.0,
+      "discount": 30.0,
+      "total": 422.0,
+      "estimatedCalories": 750.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0050",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2025-12-29",
+      "orderTime": "19:00",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 2,
+          "category": "Desserts",
+          "estimatedCalories": 820,
+          "estimatedProtein": 10,
+          "estimatedCarbs": 104,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 338.0,
+      "deliveryFee": 30.0,
+      "taxes": 23.0,
+      "discount": 20.0,
+      "total": 371.0,
+      "estimatedCalories": 820.0,
+      "estimatedProtein": 10.0,
+      "estimatedCarbs": 104.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0055",
+      "platform": "Zomato",
+      "restaurant": "McDonald's",
+      "orderDate": "2025-12-27",
+      "orderTime": "10:10",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 25.0,
+      "taxes": 20.0,
+      "discount": 20.0,
+      "total": 454.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0056",
+      "platform": "Zomato",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2025-12-25",
+      "orderTime": "18:45",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 30.0,
+      "taxes": 7.0,
+      "discount": 0.0,
+      "total": 136.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0053",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2025-12-24",
+      "orderTime": "19:10",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 440,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 54,
+          "estimatedFat": 16
+        },
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 440,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 54,
+          "estimatedFat": 16
+        }
+      ],
+      "subtotal": 548.0,
+      "deliveryFee": 25.0,
+      "taxes": 24.0,
+      "discount": 0.0,
+      "total": 597.0,
+      "estimatedCalories": 880.0,
+      "estimatedProtein": 31.0,
+      "estimatedCarbs": 109.0,
+      "estimatedFat": 33.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0051",
+      "platform": "Swiggy",
+      "restaurant": "Subway",
+      "orderDate": "2025-12-23",
+      "orderTime": "17:10",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 520,
+          "estimatedProtein": 23,
+          "estimatedCarbs": 65,
+          "estimatedFat": 16
+        },
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 520,
+          "estimatedProtein": 23,
+          "estimatedCarbs": 65,
+          "estimatedFat": 16
+        }
+      ],
+      "subtotal": 498.0,
+      "deliveryFee": 30.0,
+      "taxes": 33.0,
+      "discount": 50.0,
+      "total": 511.0,
+      "estimatedCalories": 1040.0,
+      "estimatedProtein": 46.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 33.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0057",
+      "platform": "Swiggy",
+      "restaurant": "Faasos",
+      "orderDate": "2025-12-21",
+      "orderTime": "16:10",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 555,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 68,
+          "estimatedFat": 21
+        },
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 555,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 68,
+          "estimatedFat": 21
+        }
+      ],
+      "subtotal": 478.0,
+      "deliveryFee": 30.0,
+      "taxes": 34.0,
+      "discount": 100.0,
+      "total": 442.0,
+      "estimatedCalories": 1110.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 137.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0052",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2025-12-18",
+      "orderTime": "20:30",
+      "items": [
+        {
+          "name": "Chicken Popcorn",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 40,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 12.0,
+      "discount": 0.0,
+      "total": 286.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 40.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0059",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2025-12-18",
+      "orderTime": "12:30",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 2,
+          "category": "Biryani",
+          "estimatedCalories": 1560,
+          "estimatedProtein": 68,
+          "estimatedCarbs": 164,
+          "estimatedFat": 56
+        }
+      ],
+      "subtotal": 658.0,
+      "deliveryFee": 35.0,
+      "taxes": 48.0,
+      "discount": 30.0,
+      "total": 711.0,
+      "estimatedCalories": 1560.0,
+      "estimatedProtein": 68.0,
+      "estimatedCarbs": 164.0,
+      "estimatedFat": 56.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0048",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2025-12-17",
+      "orderTime": "22:50",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 25.0,
+      "taxes": 9.0,
+      "discount": 0.0,
+      "total": 133.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0062",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2025-12-16",
+      "orderTime": "19:40",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 25.0,
+      "taxes": 30.0,
+      "discount": 75.0,
+      "total": 409.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0064",
+      "platform": "Zomato",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2025-12-15",
+      "orderTime": "21:30",
+      "items": [
+        {
+          "name": "Veg Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 620,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 279.0,
+      "deliveryFee": 0.0,
+      "taxes": 11.0,
+      "discount": 20.0,
+      "total": 270.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0060",
+      "platform": "Zomato",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2025-12-15",
+      "orderTime": "20:30",
+      "items": [
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 300,
+          "estimatedProtein": 2,
+          "estimatedCarbs": 50,
+          "estimatedFat": 10
+        },
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 300,
+          "estimatedProtein": 2,
+          "estimatedCarbs": 50,
+          "estimatedFat": 10
+        }
+      ],
+      "subtotal": 278.0,
+      "deliveryFee": 40.0,
+      "taxes": 17.0,
+      "discount": 30.0,
+      "total": 305.0,
+      "estimatedCalories": 600.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0049",
+      "platform": "Swiggy",
+      "restaurant": "Haldiram's",
+      "orderDate": "2025-12-08",
+      "orderTime": "23:45",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 30.0,
+      "taxes": 21.0,
+      "discount": 30.0,
+      "total": 420.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0061",
+      "platform": "Swiggy",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2025-12-08",
+      "orderTime": "23:00",
+      "items": [
+        {
+          "name": "Chicken Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 540,
+          "estimatedProtein": 26,
+          "estimatedCarbs": 52,
+          "estimatedFat": 24
+        },
+        {
+          "name": "Chicken Roll",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 540,
+          "estimatedProtein": 26,
+          "estimatedCarbs": 52,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 478.0,
+      "deliveryFee": 25.0,
+      "taxes": 24.0,
+      "discount": 75.0,
+      "total": 452.0,
+      "estimatedCalories": 1080.0,
+      "estimatedProtein": 53.0,
+      "estimatedCarbs": 103.0,
+      "estimatedFat": 47.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0058",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2025-12-08",
+      "orderTime": "19:50",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 650,
+          "estimatedProtein": 38,
+          "estimatedCarbs": 75,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 40.0,
+      "taxes": 25.0,
+      "discount": 20.0,
+      "total": 394.0,
+      "estimatedCalories": 650.0,
+      "estimatedProtein": 38.0,
+      "estimatedCarbs": 75.0,
+      "estimatedFat": 18.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0063",
+      "platform": "Swiggy",
+      "restaurant": "Social",
+      "orderDate": "2025-12-03",
+      "orderTime": "19:10",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 850,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 65,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 30.0,
+      "taxes": 18.0,
+      "discount": 50.0,
+      "total": 397.0,
+      "estimatedCalories": 850.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0035",
+      "platform": "Swiggy",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2025-11-26",
+      "orderTime": "11:00",
+      "items": [
+        {
+          "name": "Chicken Kebab",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 480,
+          "estimatedProtein": 42,
+          "estimatedCarbs": 12,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 30.0,
+      "taxes": 19.0,
+      "discount": 20.0,
+      "total": 328.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 42.0,
+      "estimatedCarbs": 12.0,
+      "estimatedFat": 24.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0038",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2025-11-25",
+      "orderTime": "16:30",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 330,
+          "estimatedProtein": 4,
+          "estimatedCarbs": 50,
+          "estimatedFat": 12
+        }
+      ],
+      "subtotal": 129.0,
+      "deliveryFee": 0.0,
+      "taxes": 9.0,
+      "discount": 20.0,
+      "total": 118.0,
+      "estimatedCalories": 330.0,
+      "estimatedProtein": 4.0,
+      "estimatedCarbs": 50.0,
+      "estimatedFat": 12.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0045",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2025-11-23",
+      "orderTime": "13:15",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 765,
+          "estimatedProtein": 22,
+          "estimatedCarbs": 90,
+          "estimatedFat": 30
+        },
+        {
+          "name": "Chocolate Shake",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 765,
+          "estimatedProtein": 22,
+          "estimatedCarbs": 90,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 658.0,
+      "deliveryFee": 35.0,
+      "taxes": 46.0,
+      "discount": 75.0,
+      "total": 664.0,
+      "estimatedCalories": 1530.0,
+      "estimatedProtein": 45.0,
+      "estimatedCarbs": 180.0,
+      "estimatedFat": 61.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0042",
+      "platform": "Zomato",
+      "restaurant": "KFC",
+      "orderDate": "2025-11-18",
+      "orderTime": "10:00",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 480,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 65,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 0.0,
+      "taxes": 13.0,
+      "discount": 50.0,
+      "total": 212.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 15.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0047",
+      "platform": "Swiggy",
+      "restaurant": "Theobroma",
+      "orderDate": "2025-11-17",
+      "orderTime": "17:45",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 410,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 52,
+          "estimatedFat": 21
+        }
+      ],
+      "subtotal": 169.0,
+      "deliveryFee": 49.0,
+      "taxes": 13.0,
+      "discount": 0.0,
+      "total": 231.0,
+      "estimatedCalories": 410.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 21.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0034",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2025-11-15",
+      "orderTime": "20:15",
+      "items": [
+        {
+          "name": "Chicken Popcorn",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 40,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 12.0,
+      "discount": 20.0,
+      "total": 266.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 40.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0037",
+      "platform": "Swiggy",
+      "restaurant": "Cafe Coffee Day",
+      "orderDate": "2025-11-15",
+      "orderTime": "14:40",
+      "items": [
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 210,
+          "estimatedProtein": 0,
+          "estimatedCarbs": 52,
+          "estimatedFat": 0
+        }
+      ],
+      "subtotal": 99.0,
+      "deliveryFee": 20.0,
+      "taxes": 8.0,
+      "discount": 100.0,
+      "total": 99.0,
+      "estimatedCalories": 210.0,
+      "estimatedProtein": 0.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 0.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0033",
+      "platform": "Swiggy",
+      "restaurant": "Subway",
+      "orderDate": "2025-11-14",
+      "orderTime": "20:15",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 445,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 58,
+          "estimatedFat": 18
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 445,
+          "estimatedProtein": 12,
+          "estimatedCarbs": 58,
+          "estimatedFat": 18
+        }
+      ],
+      "subtotal": 418.0,
+      "deliveryFee": 30.0,
+      "taxes": 32.0,
+      "discount": 50.0,
+      "total": 430.0,
+      "estimatedCalories": 890.0,
+      "estimatedProtein": 23.0,
+      "estimatedCarbs": 117.0,
+      "estimatedFat": 36.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0036",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2025-11-13",
+      "orderTime": "16:00",
+      "items": [
+        {
+          "name": "Chicken Burger",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 620,
+          "estimatedProtein": 27,
+          "estimatedCarbs": 55,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 219.0,
+      "deliveryFee": 40.0,
+      "taxes": 16.0,
+      "discount": 0.0,
+      "total": 275.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 27.0,
+      "estimatedCarbs": 55.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0039",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2025-11-11",
+      "orderTime": "21:15",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 590,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 61,
+          "estimatedFat": 24
+        },
+        {
+          "name": "Cold Coffee",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 590,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 61,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 578.0,
+      "deliveryFee": 30.0,
+      "taxes": 34.0,
+      "discount": 100.0,
+      "total": 542.0,
+      "estimatedCalories": 1180.0,
+      "estimatedProtein": 48.0,
+      "estimatedCarbs": 122.0,
+      "estimatedFat": 47.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0043",
+      "platform": "Zomato",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2025-11-11",
+      "orderTime": "20:30",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 40.0,
+      "taxes": 21.0,
+      "discount": 50.0,
+      "total": 310.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0031",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2025-11-11",
+      "orderTime": "17:45",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 2,
+          "category": "Pizza",
+          "estimatedCalories": 1500,
+          "estimatedProtein": 50,
+          "estimatedCarbs": 190,
+          "estimatedFat": 56
+        }
+      ],
+      "subtotal": 798.0,
+      "deliveryFee": 35.0,
+      "taxes": 64.0,
+      "discount": 20.0,
+      "total": 877.0,
+      "estimatedCalories": 1500.0,
+      "estimatedProtein": 50.0,
+      "estimatedCarbs": 190.0,
+      "estimatedFat": 56.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0041",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2025-11-08",
+      "orderTime": "14:00",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 40.0,
+      "taxes": 16.0,
+      "discount": 100.0,
+      "total": 255.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0040",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2025-11-07",
+      "orderTime": "22:00",
+      "items": [
+        {
+          "name": "Rajma Rice",
+          "quantity": 2,
+          "category": "Indian",
+          "estimatedCalories": 1120,
+          "estimatedProtein": 36,
+          "estimatedCarbs": 190,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 498.0,
+      "deliveryFee": 49.0,
+      "taxes": 30.0,
+      "discount": 75.0,
+      "total": 502.0,
+      "estimatedCalories": 1120.0,
+      "estimatedProtein": 36.0,
+      "estimatedCarbs": 190.0,
+      "estimatedFat": 24.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0046",
+      "platform": "Swiggy",
+      "restaurant": "Subway",
+      "orderDate": "2025-11-07",
+      "orderTime": "08:10",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 920,
+          "estimatedProtein": 32,
+          "estimatedCarbs": 100,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 349.0,
+      "deliveryFee": 0.0,
+      "taxes": 19.0,
+      "discount": 75.0,
+      "total": 293.0,
+      "estimatedCalories": 920.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 100.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0044",
+      "platform": "Zomato",
+      "restaurant": "Domino's",
+      "orderDate": "2025-11-03",
+      "orderTime": "23:00",
+      "items": [
+        {
+          "name": "Chicken Dominator Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 615,
+          "estimatedProtein": 26,
+          "estimatedCarbs": 70,
+          "estimatedFat": 24
+        },
+        {
+          "name": "Cappuccino",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 615,
+          "estimatedProtein": 26,
+          "estimatedCarbs": 70,
+          "estimatedFat": 24
+        }
+      ],
+      "subtotal": 798.0,
+      "deliveryFee": 20.0,
+      "taxes": 48.0,
+      "discount": 0.0,
+      "total": 866.0,
+      "estimatedCalories": 1230.0,
+      "estimatedProtein": 51.0,
+      "estimatedCarbs": 139.0,
+      "estimatedFat": 47.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0032",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2025-11-03",
+      "orderTime": "22:40",
+      "items": [
+        {
+          "name": "McVeggie Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 720,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 27
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 15.0,
+      "discount": 30.0,
+      "total": 259.0,
+      "estimatedCalories": 720.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 27.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0026",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2025-10-31",
+      "orderTime": "21:00",
+      "items": [
+        {
+          "name": "Chicken Fried Rice",
+          "quantity": 1,
+          "category": "Chinese",
+          "estimatedCalories": 595,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 75,
+          "estimatedFat": 22
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 595,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 75,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 518.0,
+      "deliveryFee": 25.0,
+      "taxes": 26.0,
+      "discount": 20.0,
+      "total": 549.0,
+      "estimatedCalories": 1190.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 150.0,
+      "estimatedFat": 45.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0024",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2025-10-29",
+      "orderTime": "08:30",
+      "items": [
+        {
+          "name": "Subway Chicken Teriyaki",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 520,
+          "estimatedProtein": 23,
+          "estimatedCarbs": 65,
+          "estimatedFat": 16
+        },
+        {
+          "name": "Samosa + Chai",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 520,
+          "estimatedProtein": 23,
+          "estimatedCarbs": 65,
+          "estimatedFat": 16
+        }
+      ],
+      "subtotal": 498.0,
+      "deliveryFee": 35.0,
+      "taxes": 32.0,
+      "discount": 0.0,
+      "total": 565.0,
+      "estimatedCalories": 1040.0,
+      "estimatedProtein": 46.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 33.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0028",
+      "platform": "Swiggy",
+      "restaurant": "Faasos",
+      "orderDate": "2025-10-28",
+      "orderTime": "21:30",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 630,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 58,
+          "estimatedFat": 30
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 630,
+          "estimatedProtein": 24,
+          "estimatedCarbs": 58,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 568.0,
+      "deliveryFee": 20.0,
+      "taxes": 43.0,
+      "discount": 100.0,
+      "total": 531.0,
+      "estimatedCalories": 1260.0,
+      "estimatedProtein": 47.0,
+      "estimatedCarbs": 117.0,
+      "estimatedFat": 59.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0029",
+      "platform": "Swiggy",
+      "restaurant": "Domino's",
+      "orderDate": "2025-10-27",
+      "orderTime": "21:20",
+      "items": [
+        {
+          "name": "Chicken Dominator Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 1100,
+          "estimatedProtein": 45,
+          "estimatedCarbs": 125,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 649.0,
+      "deliveryFee": 0.0,
+      "taxes": 51.0,
+      "discount": 30.0,
+      "total": 670.0,
+      "estimatedCalories": 1100.0,
+      "estimatedProtein": 45.0,
+      "estimatedCarbs": 125.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0027",
+      "platform": "Swiggy",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2025-10-25",
+      "orderTime": "20:15",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 30.0,
+      "taxes": 18.0,
+      "discount": 50.0,
+      "total": 397.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0021",
+      "platform": "Zomato",
+      "restaurant": "Social",
+      "orderDate": "2025-10-22",
+      "orderTime": "18:30",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 900,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 85,
+          "estimatedFat": 42
+        }
+      ],
+      "subtotal": 379.0,
+      "deliveryFee": 25.0,
+      "taxes": 31.0,
+      "discount": 0.0,
+      "total": 435.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 85.0,
+      "estimatedFat": 42.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0022",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2025-10-20",
+      "orderTime": "21:10",
+      "items": [
+        {
+          "name": "Margherita Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 750,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 95,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 0.0,
+      "taxes": 30.0,
+      "discount": 50.0,
+      "total": 379.0,
+      "estimatedCalories": 750.0,
+      "estimatedProtein": 25.0,
+      "estimatedCarbs": 95.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0030",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2025-10-17",
+      "orderTime": "19:00",
+      "items": [
+        {
+          "name": "McVeggie Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 720,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 27
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 25.0,
+      "taxes": 11.0,
+      "discount": 75.0,
+      "total": 210.0,
+      "estimatedCalories": 720.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 27.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0023",
+      "platform": "Swiggy",
+      "restaurant": "Sweet Truth",
+      "orderDate": "2025-10-15",
+      "orderTime": "23:30",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 410,
+          "estimatedProtein": 5,
+          "estimatedCarbs": 52,
+          "estimatedFat": 21
+        }
+      ],
+      "subtotal": 169.0,
+      "deliveryFee": 40.0,
+      "taxes": 9.0,
+      "discount": 0.0,
+      "total": 218.0,
+      "estimatedCalories": 410.0,
+      "estimatedProtein": 5.0,
+      "estimatedCarbs": 52.0,
+      "estimatedFat": 21.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0025",
+      "platform": "Zomato",
+      "restaurant": "Haldiram's",
+      "orderDate": "2025-10-14",
+      "orderTime": "21:00",
+      "items": [
+        {
+          "name": "Paneer Butter Masala + Naan",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 730,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 70,
+          "estimatedFat": 34
+        },
+        {
+          "name": "Chicken Roll",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 730,
+          "estimatedProtein": 25,
+          "estimatedCarbs": 70,
+          "estimatedFat": 34
+        }
+      ],
+      "subtotal": 608.0,
+      "deliveryFee": 35.0,
+      "taxes": 44.0,
+      "discount": 0.0,
+      "total": 687.0,
+      "estimatedCalories": 1460.0,
+      "estimatedProtein": 50.0,
+      "estimatedCarbs": 140.0,
+      "estimatedFat": 67.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0016",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2025-10-11",
+      "orderTime": "21:20",
+      "items": [
+        {
+          "name": "Chicken Dominator Pizza",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 790,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 95,
+          "estimatedFat": 30
+        },
+        {
+          "name": "Chocolate Shake",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 790,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 95,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 878.0,
+      "deliveryFee": 30.0,
+      "taxes": 45.0,
+      "discount": 0.0,
+      "total": 953.0,
+      "estimatedCalories": 1580.0,
+      "estimatedProtein": 55.0,
+      "estimatedCarbs": 190.0,
+      "estimatedFat": 60.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0019",
+      "platform": "Zomato",
+      "restaurant": "Haldiram's",
+      "orderDate": "2025-10-10",
+      "orderTime": "11:00",
+      "items": [
+        {
+          "name": "Butter Chicken + 2 Roti",
+          "quantity": 2,
+          "category": "Indian",
+          "estimatedCalories": 1700,
+          "estimatedProtein": 84,
+          "estimatedCarbs": 130,
+          "estimatedFat": 76
+        }
+      ],
+      "subtotal": 798.0,
+      "deliveryFee": 49.0,
+      "taxes": 52.0,
+      "discount": 0.0,
+      "total": 899.0,
+      "estimatedCalories": 1700.0,
+      "estimatedProtein": 84.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 76.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0017",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2025-10-04",
+      "orderTime": "07:10",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 49.0,
+      "taxes": 25.0,
+      "discount": 0.0,
+      "total": 473.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0020",
+      "platform": "Swiggy",
+      "restaurant": "Burger King",
+      "orderDate": "2025-10-03",
+      "orderTime": "18:45",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 630,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 84,
+          "estimatedFat": 22
+        },
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 630,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 84,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 528.0,
+      "deliveryFee": 40.0,
+      "taxes": 36.0,
+      "discount": 50.0,
+      "total": 554.0,
+      "estimatedCalories": 1260.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 167.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0018",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2025-10-01",
+      "orderTime": "22:50",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 480,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 65,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 49.0,
+      "taxes": 19.0,
+      "discount": 100.0,
+      "total": 217.0,
+      "estimatedCalories": 480.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 65.0,
+      "estimatedFat": 15.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0010",
+      "platform": "Swiggy",
+      "restaurant": "Behrouz Biryani",
+      "orderDate": "2025-09-30",
+      "orderTime": "09:20",
+      "items": [
+        {
+          "name": "Veg Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 620,
+          "estimatedProtein": 18,
+          "estimatedCarbs": 90,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 279.0,
+      "deliveryFee": 49.0,
+      "taxes": 25.0,
+      "discount": 0.0,
+      "total": 353.0,
+      "estimatedCalories": 620.0,
+      "estimatedProtein": 18.0,
+      "estimatedCarbs": 90.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0005",
+      "platform": "Zomato",
+      "restaurant": "Mainland China",
+      "orderDate": "2025-09-28",
+      "orderTime": "09:50",
+      "items": [
+        {
+          "name": "Chicken Fried Rice",
+          "quantity": 1,
+          "category": "Chinese",
+          "estimatedCalories": 585,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 73,
+          "estimatedFat": 22
+        },
+        {
+          "name": "Brownie",
+          "quantity": 1,
+          "category": "Desserts",
+          "estimatedCalories": 585,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 73,
+          "estimatedFat": 22
+        }
+      ],
+      "subtotal": 528.0,
+      "deliveryFee": 40.0,
+      "taxes": 37.0,
+      "discount": 0.0,
+      "total": 605.0,
+      "estimatedCalories": 1170.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 146.0,
+      "estimatedFat": 44.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0015",
+      "platform": "Zomato",
+      "restaurant": "The Good Bowl",
+      "orderDate": "2025-09-26",
+      "orderTime": "17:10",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 40.0,
+      "taxes": 14.0,
+      "discount": 0.0,
+      "total": 353.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0012",
+      "platform": "Swiggy",
+      "restaurant": "Faasos",
+      "orderDate": "2025-09-25",
+      "orderTime": "16:50",
+      "items": [
+        {
+          "name": "Dal Makhani + Rice",
+          "quantity": 1,
+          "category": "Indian",
+          "estimatedCalories": 680,
+          "estimatedProtein": 20,
+          "estimatedCarbs": 105,
+          "estimatedFat": 20
+        }
+      ],
+      "subtotal": 299.0,
+      "deliveryFee": 20.0,
+      "taxes": 25.0,
+      "discount": 20.0,
+      "total": 324.0,
+      "estimatedCalories": 680.0,
+      "estimatedProtein": 20.0,
+      "estimatedCarbs": 105.0,
+      "estimatedFat": 20.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0014",
+      "platform": "Zomato",
+      "restaurant": "McDonald's",
+      "orderDate": "2025-09-23",
+      "orderTime": "18:10",
+      "items": [
+        {
+          "name": "McVeggie Meal",
+          "quantity": 2,
+          "category": "Burger",
+          "estimatedCalories": 1000,
+          "estimatedProtein": 30,
+          "estimatedCarbs": 118,
+          "estimatedFat": 40
+        },
+        {
+          "name": "Chicken Roll",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 1000,
+          "estimatedProtein": 30,
+          "estimatedCarbs": 118,
+          "estimatedFat": 40
+        }
+      ],
+      "subtotal": 727.0,
+      "deliveryFee": 20.0,
+      "taxes": 46.0,
+      "discount": 100.0,
+      "total": 693.0,
+      "estimatedCalories": 2000.0,
+      "estimatedProtein": 61.0,
+      "estimatedCarbs": 235.0,
+      "estimatedFat": 79.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0013",
+      "platform": "Zomato",
+      "restaurant": "Burger King",
+      "orderDate": "2025-09-22",
+      "orderTime": "20:50",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 35.0,
+      "taxes": 29.0,
+      "discount": 20.0,
+      "total": 473.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0007",
+      "platform": "Swiggy",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2025-09-21",
+      "orderTime": "20:15",
+      "items": [
+        {
+          "name": "Veg Momos",
+          "quantity": 1,
+          "category": "Snacks",
+          "estimatedCalories": 420,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 55,
+          "estimatedFat": 15
+        }
+      ],
+      "subtotal": 199.0,
+      "deliveryFee": 25.0,
+      "taxes": 16.0,
+      "discount": 75.0,
+      "total": 165.0,
+      "estimatedCalories": 420.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 55.0,
+      "estimatedFat": 15.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0006",
+      "platform": "Swiggy",
+      "restaurant": "McDonald's",
+      "orderDate": "2025-09-15",
+      "orderTime": "18:40",
+      "items": [
+        {
+          "name": "Whopper Meal",
+          "quantity": 1,
+          "category": "Burger",
+          "estimatedCalories": 1050,
+          "estimatedProtein": 35,
+          "estimatedCarbs": 115,
+          "estimatedFat": 43
+        }
+      ],
+      "subtotal": 429.0,
+      "deliveryFee": 30.0,
+      "taxes": 23.0,
+      "discount": 20.0,
+      "total": 462.0,
+      "estimatedCalories": 1050.0,
+      "estimatedProtein": 35.0,
+      "estimatedCarbs": 115.0,
+      "estimatedFat": 43.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0009",
+      "platform": "Zomato",
+      "restaurant": "Wow! Momo",
+      "orderDate": "2025-09-09",
+      "orderTime": "21:10",
+      "items": [
+        {
+          "name": "Samosa + Chai",
+          "quantity": 2,
+          "category": "Snacks",
+          "estimatedCalories": 780,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 110,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 298.0,
+      "deliveryFee": 30.0,
+      "taxes": 13.0,
+      "discount": 30.0,
+      "total": 311.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 16.0,
+      "estimatedCarbs": 110.0,
+      "estimatedFat": 30.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0003",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2025-09-09",
+      "orderTime": "13:10",
+      "items": [
+        {
+          "name": "Veg Sub",
+          "quantity": 2,
+          "category": "Fast Food",
+          "estimatedCalories": 960,
+          "estimatedProtein": 36,
+          "estimatedCarbs": 130,
+          "estimatedFat": 30
+        }
+      ],
+      "subtotal": 498.0,
+      "deliveryFee": 35.0,
+      "taxes": 27.0,
+      "discount": 0.0,
+      "total": 560.0,
+      "estimatedCalories": 960.0,
+      "estimatedProtein": 36.0,
+      "estimatedCarbs": 130.0,
+      "estimatedFat": 30.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0008",
+      "platform": "Swiggy",
+      "restaurant": "KFC",
+      "orderDate": "2025-09-08",
+      "orderTime": "21:50",
+      "items": [
+        {
+          "name": "Zinger Burger Meal",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 565,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 76,
+          "estimatedFat": 19
+        },
+        {
+          "name": "Coke",
+          "quantity": 1,
+          "category": "Beverages",
+          "estimatedCalories": 565,
+          "estimatedProtein": 16,
+          "estimatedCarbs": 76,
+          "estimatedFat": 19
+        }
+      ],
+      "subtotal": 448.0,
+      "deliveryFee": 35.0,
+      "taxes": 21.0,
+      "discount": 75.0,
+      "total": 429.0,
+      "estimatedCalories": 1130.0,
+      "estimatedProtein": 32.0,
+      "estimatedCarbs": 152.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "Medium"
+    },
+    {
+      "id": "FL0004",
+      "platform": "Zomato",
+      "restaurant": "Subway",
+      "orderDate": "2025-09-04",
+      "orderTime": "22:10",
+      "items": [
+        {
+          "name": "Chicken Popcorn",
+          "quantity": 1,
+          "category": "Fast Food",
+          "estimatedCalories": 520,
+          "estimatedProtein": 28,
+          "estimatedCarbs": 40,
+          "estimatedFat": 25
+        }
+      ],
+      "subtotal": 249.0,
+      "deliveryFee": 0.0,
+      "taxes": 17.0,
+      "discount": 30.0,
+      "total": 236.0,
+      "estimatedCalories": 520.0,
+      "estimatedProtein": 28.0,
+      "estimatedCarbs": 40.0,
+      "estimatedFat": 25.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0001",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2025-09-04",
+      "orderTime": "09:20",
+      "items": [
+        {
+          "name": "Mutton Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 900,
+          "estimatedProtein": 40,
+          "estimatedCarbs": 80,
+          "estimatedFat": 38
+        }
+      ],
+      "subtotal": 399.0,
+      "deliveryFee": 35.0,
+      "taxes": 19.0,
+      "discount": 75.0,
+      "total": 378.0,
+      "estimatedCalories": 900.0,
+      "estimatedProtein": 40.0,
+      "estimatedCarbs": 80.0,
+      "estimatedFat": 38.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0002",
+      "platform": "Swiggy",
+      "restaurant": "Oven Story Pizza",
+      "orderDate": "2025-09-03",
+      "orderTime": "15:00",
+      "items": [
+        {
+          "name": "Garlic Bread",
+          "quantity": 1,
+          "category": "Pizza",
+          "estimatedCalories": 350,
+          "estimatedProtein": 8,
+          "estimatedCarbs": 45,
+          "estimatedFat": 16
+        }
+      ],
+      "subtotal": 149.0,
+      "deliveryFee": 49.0,
+      "taxes": 15.0,
+      "discount": 0.0,
+      "total": 213.0,
+      "estimatedCalories": 350.0,
+      "estimatedProtein": 8.0,
+      "estimatedCarbs": 45.0,
+      "estimatedFat": 16.0,
+      "dataQuality": "High"
+    },
+    {
+      "id": "FL0011",
+      "platform": "Zomato",
+      "restaurant": "Biryani Blues",
+      "orderDate": "2025-09-01",
+      "orderTime": "09:30",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "quantity": 1,
+          "category": "Biryani",
+          "estimatedCalories": 780,
+          "estimatedProtein": 34,
+          "estimatedCarbs": 82,
+          "estimatedFat": 28
+        }
+      ],
+      "subtotal": 329.0,
+      "deliveryFee": 0.0,
+      "taxes": 14.0,
+      "discount": 100.0,
+      "total": 243.0,
+      "estimatedCalories": 780.0,
+      "estimatedProtein": 34.0,
+      "estimatedCarbs": 82.0,
+      "estimatedFat": 28.0,
+      "dataQuality": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+id,platform,restaurant,orderDate,orderTime,itemSummary,categorySummary,subtotal,deliveryFee,taxes,discount,total,estimatedCalories,estimatedProtein,estimatedCarbs,estimatedFat,dataQuality
+FL0189,Swiggy,Oven Story Pizza,2026-08-31,16:50,Garlic Bread x2,Pizza,298,30,17,75,270,700,16,90,32,High
+FL0205,Swiggy,Cafe Coffee Day,2026-08-25,19:00,Cappuccino x1; Veg Momos x1,Beverages; Snacks,348,25,28,0,401,550,22,69,20,High
+FL0194,Zomato,Social,2026-08-22,18:00,Dal Makhani + Rice x1,Indian,299,0,13,20,292,680,20,105,20,High
+FL0202,Zomato,Theobroma,2026-08-21,18:15,Gulab Jamun x1,Desserts,129,30,10,50,119,330,4,50,12,High
+FL0198,Zomato,Social,2026-08-21,16:45,Butter Chicken + 2 Roti x1,Indian,399,30,27,75,381,850,42,65,38,Medium
+FL0193,Zomato,Sweet Truth,2026-08-15,22:45,Brownie x1; Brownie x1,Desserts; Desserts,358,49,25,0,432,780,10,96,40,High
+FL0191,Swiggy,Burger King,2026-08-13,20:40,Whopper Meal x1,Burger,429,40,33,0,502,1050,35,115,43,Medium
+FL0200,Zomato,Cafe Coffee Day,2026-08-13,19:40,Cappuccino x1,Beverages,149,25,13,0,187,130,6,14,5,High
+FL0188,Swiggy,Wow! Momo,2026-08-13,13:30,Chicken Roll x1; Gulab Jamun x1,Snacks; Desserts,358,25,23,0,406,890,29,105,37,High
+FL0206,Zomato,Burger King,2026-08-12,21:50,Whopper Meal x1,Burger,429,40,25,75,419,1050,35,115,43,Medium
+FL0195,Swiggy,Domino's,2026-08-12,18:40,Garlic Bread x2,Pizza,298,0,13,0,311,700,16,90,32,High
+FL0196,Zomato,Mainland China,2026-08-11,18:50,Schezwan Chicken x2,Chinese,758,30,42,30,800,1300,84,110,56,Medium
+FL0190,Zomato,Haldiram's,2026-08-11,18:30,Paneer Butter Masala + Naan x1; Gulab Jamun x1,Indian; Desserts,508,25,37,100,470,1230,29,135,54,High
+FL0185,Swiggy,KFC,2026-08-10,23:10,Chicken Popcorn x1,Fast Food,249,40,13,75,227,520,28,40,25,High
+FL0184,Zomato,Biryani Blues,2026-08-09,22:50,Veg Biryani x1,Biryani,279,20,20,75,244,620,18,90,20,Medium
+FL0192,Swiggy,The Good Bowl,2026-08-07,19:10,Rajma Rice x1,Indian,249,25,18,75,217,560,18,95,12,High
+FL0199,Swiggy,Burger King,2026-08-07,16:10,Whopper Meal x1; Chocolate Shake x1,Burger; Beverages,658,40,52,50,700,1530,45,180,61,Medium
+FL0203,Zomato,The Good Bowl,2026-08-05,14:50,Rajma Rice x1,Indian,249,30,13,0,292,560,18,95,12,High
+FL0201,Zomato,Mainland China,2026-08-04,11:15,Chicken Fried Rice x1,Chinese,349,20,23,75,317,780,35,98,24,High
+FL0186,Zomato,Mainland China,2026-08-04,09:50,Veg Manchurian x2; Gulab Jamun x1,Chinese; Desserts,727,35,47,75,734,1550,34,210,62,High
+FL0197,Zomato,Faasos,2026-08-04,09:10,Paneer Butter Masala + Naan x1,Indian,379,25,25,100,329,900,25,85,42,High
+FL0187,Zomato,Social,2026-08-03,17:40,Butter Chicken + 2 Roti x1,Indian,399,0,28,20,407,850,42,65,38,Medium
+FL0204,Zomato,Faasos,2026-08-02,15:30,Rajma Rice x1,Indian,249,30,17,0,296,560,18,95,12,High
+FL0176,Swiggy,The Good Bowl,2026-07-31,21:00,Paneer Butter Masala + Naan x1; Veg Momos x1,Indian; Snacks,578,0,28,100,506,1320,41,140,57,High
+FL0175,Zomato,Faasos,2026-07-31,20:50,Dal Makhani + Rice x1,Indian,299,30,16,0,345,680,20,105,20,High
+FL0167,Swiggy,The Good Bowl,2026-07-29,16:20,Dal Makhani + Rice x1,Indian,299,35,25,0,359,680,20,105,20,Medium
+FL0179,Zomato,Cafe Coffee Day,2026-07-26,19:45,Cappuccino x1; Chicken Momos x1,Beverages; Snacks,398,40,35,0,473,650,34,62,27,High
+FL0183,Swiggy,Sweet Truth,2026-07-25,23:10,Brownie x1; Chocolate Lava Cake x1,Desserts; Desserts,348,49,17,75,339,800,10,100,41,High
+FL0171,Swiggy,Oven Story Pizza,2026-07-24,18:50,Margherita Pizza x1,Pizza,399,20,32,0,451,750,25,95,28,High
+FL0172,Swiggy,Biryani Blues,2026-07-23,18:45,Veg Biryani x1,Biryani,279,35,21,30,305,620,18,90,20,High
+FL0170,Zomato,KFC,2026-07-21,10:40,Subway Chicken Teriyaki x2,Fast Food,698,35,47,0,780,1300,76,150,36,Medium
+FL0177,Swiggy,Domino's,2026-07-20,20:50,Farmhouse Pizza x1,Pizza,549,0,34,30,553,900,30,105,35,High
+FL0178,Swiggy,Faasos,2026-07-17,23:45,Butter Chicken + 2 Roti x1,Indian,399,20,20,30,409,850,42,65,38,High
+FL0173,Zomato,Theobroma,2026-07-17,22:10,Gulab Jamun x1,Desserts,129,30,7,20,146,330,4,50,12,High
+FL0168,Zomato,Sweet Truth,2026-07-16,09:45,Gulab Jamun x1,Desserts,129,25,8,100,99,330,4,50,12,High
+FL0180,Zomato,Domino's,2026-07-13,20:00,Chicken Dominator Pizza x2,Pizza,1298,40,95,0,1433,2200,90,250,84,High
+FL0166,Zomato,Behrouz Biryani,2026-07-13,18:00,Veg Biryani x1,Biryani,279,35,17,50,281,620,18,90,20,High
+FL0169,Zomato,McDonald's,2026-07-10,21:50,Chicken Burger x1,Burger,219,20,13,30,222,620,27,55,25,High
+FL0174,Swiggy,Behrouz Biryani,2026-07-09,20:30,Mutton Biryani x1,Biryani,399,49,22,50,420,900,40,80,38,High
+FL0181,Zomato,Wow! Momo,2026-07-07,23:50,Chicken Momos x1,Snacks,249,25,21,0,295,520,28,48,22,High
+FL0182,Swiggy,Social,2026-07-01,23:15,Butter Chicken + 2 Roti x1,Indian,399,35,32,75,391,850,42,65,38,High
+FL0158,Zomato,Biryani Blues,2026-06-30,22:20,Mutton Biryani x1,Biryani,399,35,24,100,358,900,40,80,38,High
+FL0165,Zomato,The Good Bowl,2026-06-30,21:00,Butter Chicken + 2 Roti x1; Chicken Momos x1,Indian; Snacks,648,30,43,0,721,1370,70,113,60,Medium
+FL0162,Swiggy,Faasos,2026-06-30,19:45,Paneer Butter Masala + Naan x1,Indian,379,40,33,50,402,900,25,85,42,High
+FL0153,Swiggy,Theobroma,2026-06-29,21:45,Chocolate Lava Cake x1,Desserts,169,25,15,0,209,410,5,52,21,Medium
+FL0163,Zomato,KFC,2026-06-28,22:45,Subway Chicken Teriyaki x1,Fast Food,349,20,29,75,323,650,38,75,18,Medium
+FL0155,Swiggy,Domino's,2026-06-24,19:15,Margherita Pizza x1,Pizza,399,49,21,75,394,750,25,95,28,Medium
+FL0159,Zomato,Sweet Truth,2026-06-22,21:50,Brownie x1,Desserts,179,0,8,20,167,390,5,48,20,High
+FL0154,Swiggy,Cafe Coffee Day,2026-06-20,09:30,Coke x1; Chicken Roll x1,Beverages; Snacks,328,25,17,0,370,770,25,107,25,High
+FL0149,Swiggy,Mainland China,2026-06-19,20:45,Chicken Fried Rice x1,Chinese,349,40,17,100,306,780,35,98,24,Medium
+FL0157,Zomato,Mainland China,2026-06-19,17:30,Chicken Fried Rice x2; Chocolate Lava Cake x1,Chinese; Desserts,867,30,60,30,927,1970,75,248,69,Medium
+FL0161,Zomato,Domino's,2026-06-19,10:30,Garlic Bread x1; Cold Coffee x1,Pizza; Beverages,328,0,19,0,347,630,16,87,25,High
+FL0150,Zomato,Wow! Momo,2026-06-16,15:30,Veg Momos x2,Snacks,398,20,21,20,419,840,32,110,30,High
+FL0160,Swiggy,Oven Story Pizza,2026-06-11,22:10,Garlic Bread x2,Pizza,298,49,15,0,362,700,16,90,32,High
+FL0156,Swiggy,Behrouz Biryani,2026-06-11,07:15,Chicken Kebab x1; Gulab Jamun x1,Biryani; Desserts,428,20,26,30,444,810,46,62,36,High
+FL0148,Swiggy,Subway,2026-06-09,18:30,Subway Chicken Teriyaki x1,Fast Food,349,30,20,30,369,650,38,75,18,High
+FL0164,Swiggy,Cafe Coffee Day,2026-06-08,21:30,Coke x1,Beverages,99,20,7,0,126,210,0,52,0,High
+FL0152,Zomato,Subway,2026-06-07,22:40,Zinger Burger Meal x1; Veg Momos x1,Fast Food; Snacks,548,35,41,0,624,1340,48,155,53,High
+FL0151,Swiggy,Behrouz Biryani,2026-06-04,20:10,Chicken Biryani x1,Biryani,329,20,20,100,269,780,34,82,28,Medium
+FL0145,Zomato,Theobroma,2026-05-31,18:00,Chocolate Lava Cake x1,Desserts,169,49,16,0,234,410,5,52,21,High
+FL0136,Swiggy,Cafe Coffee Day,2026-05-26,22:30,Cold Coffee x1; Gulab Jamun x1,Beverages; Desserts,308,30,16,0,354,610,12,92,21,Medium
+FL0146,Zomato,Domino's,2026-05-19,21:20,Garlic Bread x1; Veg Momos x1,Pizza; Snacks,348,30,23,100,301,770,24,100,31,Medium
+FL0144,Swiggy,Haldiram's,2026-05-19,17:40,Butter Chicken + 2 Roti x1,Indian,399,49,34,0,482,850,42,65,38,High
+FL0133,Zomato,Sweet Truth,2026-05-17,21:10,Chocolate Lava Cake x1; Veg Momos x1,Desserts; Snacks,368,25,31,30,394,830,21,107,36,High
+FL0143,Swiggy,Haldiram's,2026-05-17,18:40,Paneer Butter Masala + Naan x1,Indian,379,49,22,50,400,900,25,85,42,Medium
+FL0139,Zomato,Domino's,2026-05-15,19:50,Farmhouse Pizza x1,Pizza,549,20,28,50,547,900,30,105,35,High
+FL0142,Swiggy,Behrouz Biryani,2026-05-13,19:40,Mutton Biryani x1,Biryani,399,0,17,0,416,900,40,80,38,High
+FL0141,Zomato,Subway,2026-05-13,08:40,Zinger Burger Meal x1,Fast Food,349,35,20,0,404,920,32,100,38,High
+FL0137,Zomato,Behrouz Biryani,2026-05-11,22:45,Veg Biryani x1; Coke x1,Biryani; Beverages,378,0,19,20,377,830,18,142,20,High
+FL0140,Swiggy,Domino's,2026-05-10,20:30,Farmhouse Pizza x1,Pizza,549,40,32,75,546,900,30,105,35,High
+FL0134,Zomato,Subway,2026-05-07,19:15,Zinger Burger Meal x1; Veg Momos x1,Fast Food; Snacks,548,20,38,50,556,1340,48,155,53,High
+FL0132,Zomato,Cafe Coffee Day,2026-05-05,23:10,Coke x1,Beverages,99,49,11,0,159,210,0,52,0,High
+FL0147,Swiggy,Sweet Truth,2026-05-05,19:50,Gulab Jamun x1; Samosa + Chai x1,Desserts; Snacks,278,35,17,30,300,720,12,105,27,High
+FL0135,Swiggy,The Good Bowl,2026-05-03,09:20,Butter Chicken + 2 Roti x1,Indian,399,25,28,30,422,850,42,65,38,High
+FL0138,Swiggy,Biryani Blues,2026-05-02,20:45,Mutton Biryani x1,Biryani,399,40,23,0,462,900,40,80,38,Medium
+FL0115,Zomato,Biryani Blues,2026-04-29,20:10,Chicken Kebab x1,Biryani,299,30,14,50,293,480,42,12,24,High
+FL0114,Swiggy,Theobroma,2026-04-26,19:00,Gulab Jamun x1; Chicken Momos x1,Desserts; Snacks,378,25,17,0,420,850,32,98,34,High
+FL0129,Swiggy,Oven Story Pizza,2026-04-23,19:50,Farmhouse Pizza x1; Coke x1,Pizza; Beverages,648,0,47,50,645,1110,30,157,35,Medium
+FL0126,Swiggy,Social,2026-04-21,21:10,Dal Makhani + Rice x1,Indian,299,20,25,0,344,680,20,105,20,High
+FL0124,Swiggy,KFC,2026-04-16,19:30,Veg Sub x2,Fast Food,498,49,26,30,543,960,36,130,30,High
+FL0119,Swiggy,The Good Bowl,2026-04-14,09:20,Paneer Butter Masala + Naan x1; Chocolate Lava Cake x1,Indian; Desserts,548,35,36,0,619,1310,30,137,63,High
+FL0123,Swiggy,Wow! Momo,2026-04-12,21:40,Chicken Momos x1,Snacks,249,30,19,75,223,520,28,48,22,High
+FL0128,Swiggy,Burger King,2026-04-12,19:20,McChicken Burger Meal x1,Burger,299,30,25,0,354,850,28,95,34,High
+FL0113,Zomato,Mainland China,2026-04-08,20:20,Schezwan Chicken x1,Chinese,379,30,25,75,359,650,42,55,28,High
+FL0122,Zomato,Haldiram's,2026-04-07,08:00,Dal Makhani + Rice x1,Indian,299,35,20,0,354,680,20,105,20,High
+FL0127,Zomato,Social,2026-04-05,09:40,Butter Chicken + 2 Roti x1,Indian,399,25,23,0,447,850,42,65,38,Medium
+FL0118,Zomato,KFC,2026-04-04,10:50,Zinger Burger Meal x1,Fast Food,349,35,16,20,380,920,32,100,38,High
+FL0125,Swiggy,Cafe Coffee Day,2026-04-03,19:30,Coke x1,Beverages,99,30,5,50,99,210,0,52,0,High
+FL0130,Zomato,Faasos,2026-04-03,19:30,Paneer Butter Masala + Naan x1,Indian,379,0,30,0,409,900,25,85,42,High
+FL0116,Swiggy,Burger King,2026-04-03,17:40,McVeggie Meal x1; Gulab Jamun x1,Burger; Desserts,378,40,31,100,349,1050,22,140,39,Medium
+FL0120,Swiggy,Domino's,2026-04-02,19:30,Margherita Pizza x1,Pizza,399,40,29,0,468,750,25,95,28,High
+FL0121,Zomato,Cafe Coffee Day,2026-04-02,19:15,Coke x1,Beverages,99,0,7,100,99,210,0,52,0,High
+FL0117,Zomato,Oven Story Pizza,2026-04-01,21:30,Chicken Dominator Pizza x1,Pizza,649,35,39,30,693,1100,45,125,42,High
+FL0131,Swiggy,Behrouz Biryani,2026-04-01,19:50,Chicken Biryani x2,Biryani,658,40,48,75,671,1560,68,164,56,Medium
+FL0110,Zomato,The Good Bowl,2026-03-23,23:10,Dal Makhani + Rice x2,Indian,598,20,33,100,551,1360,40,210,40,High
+FL0109,Zomato,Social,2026-03-22,13:30,Paneer Butter Masala + Naan x1,Indian,379,25,25,50,379,900,25,85,42,Medium
+FL0108,Zomato,Social,2026-03-21,19:10,Dal Makhani + Rice x1,Indian,299,35,25,50,309,680,20,105,20,Medium
+FL0106,Zomato,Sweet Truth,2026-03-21,15:50,Chocolate Lava Cake x1,Desserts,169,49,17,50,185,410,5,52,21,Medium
+FL0107,Zomato,Cafe Coffee Day,2026-03-21,12:50,Cappuccino x1,Beverages,149,30,10,50,139,130,6,14,5,Medium
+FL0099,Zomato,Social,2026-03-16,21:15,Paneer Butter Masala + Naan x1,Indian,379,49,23,75,376,900,25,85,42,High
+FL0101,Swiggy,The Good Bowl,2026-03-15,22:10,Butter Chicken + 2 Roti x1,Indian,399,35,19,30,423,850,42,65,38,High
+FL0097,Swiggy,Wow! Momo,2026-03-14,20:45,Veg Momos x1; Chocolate Lava Cake x1,Snacks; Desserts,368,25,26,100,319,830,21,107,36,High
+FL0102,Zomato,Sweet Truth,2026-03-11,21:10,Brownie x1,Desserts,179,25,14,0,218,390,5,48,20,High
+FL0096,Swiggy,KFC,2026-03-11,13:40,Zinger Burger Meal x1,Fast Food,349,0,23,30,342,920,32,100,38,Medium
+FL0104,Swiggy,Cafe Coffee Day,2026-03-11,11:50,Chocolate Shake x1,Beverages,229,25,15,30,239,480,10,65,18,High
+FL0098,Zomato,Oven Story Pizza,2026-03-08,17:00,Margherita Pizza x1,Pizza,399,49,22,50,420,750,25,95,28,High
+FL0112,Swiggy,Cafe Coffee Day,2026-03-06,16:15,Cold Coffee x1,Beverages,179,20,16,30,185,280,8,42,9,High
+FL0111,Swiggy,Sweet Truth,2026-03-05,13:10,Brownie x1,Desserts,179,0,12,0,191,390,5,48,20,High
+FL0103,Swiggy,KFC,2026-03-05,12:15,Subway Chicken Teriyaki x1,Fast Food,349,30,27,100,306,650,38,75,18,Medium
+FL0105,Swiggy,KFC,2026-03-02,09:10,Veg Sub x1,Fast Food,249,49,21,0,319,480,18,65,15,Medium
+FL0100,Zomato,The Good Bowl,2026-03-01,17:40,Rajma Rice x1,Indian,249,0,14,50,213,560,18,95,12,Medium
+FL0095,Swiggy,KFC,2026-02-28,16:45,Subway Chicken Teriyaki x1,Fast Food,349,0,24,20,353,650,38,75,18,High
+FL0088,Swiggy,Cafe Coffee Day,2026-02-26,23:30,Cold Coffee x2,Beverages,358,30,22,0,410,560,16,84,18,Medium
+FL0085,Zomato,Oven Story Pizza,2026-02-26,17:20,Chicken Dominator Pizza x1; Chicken Momos x1,Pizza; Snacks,898,25,69,0,992,1620,73,173,64,Medium
+FL0094,Zomato,Wow! Momo,2026-02-25,23:00,Chicken Momos x1,Snacks,249,25,21,50,245,520,28,48,22,High
+FL0091,Zomato,Wow! Momo,2026-02-24,10:40,Samosa + Chai x1,Snacks,149,30,8,0,187,390,8,55,15,High
+FL0083,Swiggy,Wow! Momo,2026-02-21,10:45,Chicken Momos x1; Chocolate Lava Cake x1,Snacks; Desserts,418,49,25,50,442,930,33,100,43,High
+FL0093,Swiggy,Behrouz Biryani,2026-02-20,17:20,Chicken Kebab x1; Samosa + Chai x1,Biryani; Snacks,448,0,32,20,460,870,50,67,39,Medium
+FL0090,Swiggy,Burger King,2026-02-17,20:10,Whopper Meal x1,Burger,429,30,25,100,384,1050,35,115,43,High
+FL0089,Swiggy,Behrouz Biryani,2026-02-15,07:40,Chicken Biryani x1,Biryani,329,35,23,50,337,780,34,82,28,Medium
+FL0084,Zomato,KFC,2026-02-13,11:50,Subway Chicken Teriyaki x1,Fast Food,349,0,15,50,314,650,38,75,18,High
+FL0086,Swiggy,Behrouz Biryani,2026-02-09,21:00,Chicken Biryani x1,Biryani,329,35,19,0,383,780,34,82,28,High
+FL0087,Zomato,KFC,2026-02-05,23:10,Veg Sub x1,Fast Food,249,35,13,20,277,480,18,65,15,Medium
+FL0092,Zomato,McDonald's,2026-02-04,22:15,McVeggie Meal x1,Burger,249,49,20,75,243,720,18,90,27,High
+FL0082,Zomato,Burger King,2026-02-02,20:10,Whopper Meal x1; Gulab Jamun x1,Burger; Desserts,558,40,47,75,570,1380,39,165,55,High
+FL0070,Zomato,Behrouz Biryani,2026-01-30,18:45,Chicken Biryani x1,Biryani,329,25,23,75,302,780,34,82,28,High
+FL0075,Zomato,Burger King,2026-01-28,20:50,Whopper Meal x1,Burger,429,25,36,30,460,1050,35,115,43,Medium
+FL0071,Zomato,Theobroma,2026-01-28,20:40,Brownie x2; Samosa + Chai x1,Desserts; Snacks,507,20,37,75,489,1170,18,151,55,Medium
+FL0079,Zomato,KFC,2026-01-28,17:50,Subway Chicken Teriyaki x1; Chicken Roll x1,Fast Food; Snacks,578,49,45,50,622,1210,63,130,43,High
+FL0066,Zomato,Cafe Coffee Day,2026-01-27,20:20,Cappuccino x1,Beverages,149,35,13,0,197,130,6,14,5,High
+FL0067,Zomato,Sweet Truth,2026-01-25,22:40,Gulab Jamun x1,Desserts,129,25,11,100,99,330,4,50,12,High
+FL0072,Zomato,Subway,2026-01-23,22:15,Zinger Burger Meal x2,Fast Food,698,25,39,75,687,1840,64,200,76,High
+FL0074,Swiggy,Cafe Coffee Day,2026-01-21,13:00,Chocolate Shake x1; Gulab Jamun x1,Beverages; Desserts,358,35,20,75,338,810,14,115,30,High
+FL0081,Zomato,Biryani Blues,2026-01-20,23:40,Chicken Biryani x1,Biryani,329,40,19,75,313,780,34,82,28,High
+FL0068,Swiggy,Cafe Coffee Day,2026-01-18,19:45,Chocolate Shake x1,Beverages,229,20,16,20,245,480,10,65,18,High
+FL0073,Zomato,Faasos,2026-01-17,18:15,Butter Chicken + 2 Roti x1,Indian,399,40,22,0,461,850,42,65,38,High
+FL0078,Swiggy,Sweet Truth,2026-01-14,12:40,Brownie x1,Desserts,179,25,16,100,120,390,5,48,20,Medium
+FL0076,Zomato,Theobroma,2026-01-13,15:00,Gulab Jamun x1; Chocolate Lava Cake x1,Desserts; Desserts,298,40,16,30,324,740,9,102,33,Medium
+FL0069,Zomato,Social,2026-01-11,23:45,Paneer Butter Masala + Naan x1; Samosa + Chai x1,Indian; Snacks,528,49,25,100,502,1290,33,140,57,Medium
+FL0077,Swiggy,Subway,2026-01-04,23:00,Veg Sub x2,Fast Food,498,20,23,30,511,960,36,130,30,Medium
+FL0065,Swiggy,Burger King,2026-01-01,17:20,Chicken Burger x1,Burger,219,20,14,30,223,620,27,55,25,High
+FL0080,Swiggy,Mainland China,2026-01-01,11:50,Veg Manchurian x1,Chinese,299,25,14,20,318,610,15,80,25,High
+FL0054,Swiggy,Domino's,2025-12-31,14:10,Margherita Pizza x1,Pizza,399,20,33,30,422,750,25,95,28,High
+FL0050,Swiggy,Sweet Truth,2025-12-29,19:00,Chocolate Lava Cake x2,Desserts,338,30,23,20,371,820,10,104,42,Medium
+FL0055,Zomato,McDonald's,2025-12-27,10:10,Whopper Meal x1,Burger,429,25,20,20,454,1050,35,115,43,Medium
+FL0056,Zomato,Cafe Coffee Day,2025-12-25,18:45,Coke x1,Beverages,99,30,7,0,136,210,0,52,0,High
+FL0053,Swiggy,Oven Story Pizza,2025-12-24,19:10,Margherita Pizza x1; Cappuccino x1,Pizza; Beverages,548,25,24,0,597,880,31,109,33,Medium
+FL0051,Swiggy,Subway,2025-12-23,17:10,Subway Chicken Teriyaki x1; Samosa + Chai x1,Fast Food; Snacks,498,30,33,50,511,1040,46,130,33,Medium
+FL0057,Swiggy,Faasos,2025-12-21,16:10,Paneer Butter Masala + Naan x1; Coke x1,Indian; Beverages,478,30,34,100,442,1110,25,137,42,High
+FL0052,Zomato,Subway,2025-12-18,20:30,Chicken Popcorn x1,Fast Food,249,25,12,0,286,520,28,40,25,High
+FL0059,Swiggy,Behrouz Biryani,2025-12-18,12:30,Chicken Biryani x2,Biryani,658,35,48,30,711,1560,68,164,56,High
+FL0048,Swiggy,Cafe Coffee Day,2025-12-17,22:50,Coke x1,Beverages,99,25,9,0,133,210,0,52,0,High
+FL0062,Zomato,Burger King,2025-12-16,19:40,Whopper Meal x1,Burger,429,25,30,75,409,1050,35,115,43,High
+FL0064,Zomato,Behrouz Biryani,2025-12-15,21:30,Veg Biryani x1,Biryani,279,0,11,20,270,620,18,90,20,High
+FL0060,Zomato,Sweet Truth,2025-12-15,20:30,Brownie x1; Coke x1,Desserts; Beverages,278,40,17,30,305,600,5,100,20,High
+FL0049,Swiggy,Haldiram's,2025-12-08,23:45,Butter Chicken + 2 Roti x1,Indian,399,30,21,30,420,850,42,65,38,High
+FL0061,Swiggy,Wow! Momo,2025-12-08,23:00,Chicken Momos x1; Chicken Roll x1,Snacks; Snacks,478,25,24,75,452,1080,53,103,47,High
+FL0058,Swiggy,KFC,2025-12-08,19:50,Subway Chicken Teriyaki x1,Fast Food,349,40,25,20,394,650,38,75,18,High
+FL0063,Swiggy,Social,2025-12-03,19:10,Butter Chicken + 2 Roti x1,Indian,399,30,18,50,397,850,42,65,38,Medium
+FL0035,Swiggy,Biryani Blues,2025-11-26,11:00,Chicken Kebab x1,Biryani,299,30,19,20,328,480,42,12,24,High
+FL0038,Swiggy,Sweet Truth,2025-11-25,16:30,Gulab Jamun x1,Desserts,129,0,9,20,118,330,4,50,12,High
+FL0045,Swiggy,Burger King,2025-11-23,13:15,Whopper Meal x1; Chocolate Shake x1,Burger; Beverages,658,35,46,75,664,1530,45,180,61,Medium
+FL0042,Zomato,KFC,2025-11-18,10:00,Veg Sub x1,Fast Food,249,0,13,50,212,480,18,65,15,High
+FL0047,Swiggy,Theobroma,2025-11-17,17:45,Chocolate Lava Cake x1,Desserts,169,49,13,0,231,410,5,52,21,High
+FL0034,Swiggy,KFC,2025-11-15,20:15,Chicken Popcorn x1,Fast Food,249,25,12,20,266,520,28,40,25,High
+FL0037,Swiggy,Cafe Coffee Day,2025-11-15,14:40,Coke x1,Beverages,99,20,8,100,99,210,0,52,0,High
+FL0033,Swiggy,Subway,2025-11-14,20:15,Veg Sub x1; Chocolate Lava Cake x1,Fast Food; Desserts,418,30,32,50,430,890,23,117,36,High
+FL0036,Zomato,Burger King,2025-11-13,16:00,Chicken Burger x1,Burger,219,40,16,0,275,620,27,55,25,High
+FL0039,Swiggy,Behrouz Biryani,2025-11-11,21:15,Mutton Biryani x1; Cold Coffee x1,Biryani; Beverages,578,30,34,100,542,1180,48,122,47,High
+FL0043,Zomato,The Good Bowl,2025-11-11,20:30,Dal Makhani + Rice x1,Indian,299,40,21,50,310,680,20,105,20,Medium
+FL0031,Swiggy,Oven Story Pizza,2025-11-11,17:45,Margherita Pizza x2,Pizza,798,35,64,20,877,1500,50,190,56,High
+FL0041,Zomato,Social,2025-11-08,14:00,Dal Makhani + Rice x1,Indian,299,40,16,100,255,680,20,105,20,Medium
+FL0040,Zomato,Social,2025-11-07,22:00,Rajma Rice x2,Indian,498,49,30,75,502,1120,36,190,24,High
+FL0046,Swiggy,Subway,2025-11-07,08:10,Zinger Burger Meal x1,Fast Food,349,0,19,75,293,920,32,100,38,High
+FL0044,Zomato,Domino's,2025-11-03,23:00,Chicken Dominator Pizza x1; Cappuccino x1,Pizza; Beverages,798,20,48,0,866,1230,51,139,47,High
+FL0032,Zomato,Burger King,2025-11-03,22:40,McVeggie Meal x1,Burger,249,25,15,30,259,720,18,90,27,High
+FL0026,Zomato,Mainland China,2025-10-31,21:00,Chicken Fried Rice x1; Chocolate Lava Cake x1,Chinese; Desserts,518,25,26,20,549,1190,40,150,45,High
+FL0024,Zomato,Subway,2025-10-29,08:30,Subway Chicken Teriyaki x1; Samosa + Chai x1,Fast Food; Snacks,498,35,32,0,565,1040,46,130,33,Medium
+FL0028,Swiggy,Faasos,2025-10-28,21:30,Butter Chicken + 2 Roti x1; Chocolate Lava Cake x1,Indian; Desserts,568,20,43,100,531,1260,47,117,59,High
+FL0029,Swiggy,Domino's,2025-10-27,21:20,Chicken Dominator Pizza x1,Pizza,649,0,51,30,670,1100,45,125,42,Medium
+FL0027,Swiggy,Biryani Blues,2025-10-25,20:15,Mutton Biryani x1,Biryani,399,30,18,50,397,900,40,80,38,Medium
+FL0021,Zomato,Social,2025-10-22,18:30,Paneer Butter Masala + Naan x1,Indian,379,25,31,0,435,900,25,85,42,High
+FL0022,Swiggy,Oven Story Pizza,2025-10-20,21:10,Margherita Pizza x1,Pizza,399,0,30,50,379,750,25,95,28,High
+FL0030,Swiggy,Burger King,2025-10-17,19:00,McVeggie Meal x1,Burger,249,25,11,75,210,720,18,90,27,Medium
+FL0023,Swiggy,Sweet Truth,2025-10-15,23:30,Chocolate Lava Cake x1,Desserts,169,40,9,0,218,410,5,52,21,High
+FL0025,Zomato,Haldiram's,2025-10-14,21:00,Paneer Butter Masala + Naan x1; Chicken Roll x1,Indian; Snacks,608,35,44,0,687,1460,50,140,67,High
+FL0016,Swiggy,Oven Story Pizza,2025-10-11,21:20,Chicken Dominator Pizza x1; Chocolate Shake x1,Pizza; Beverages,878,30,45,0,953,1580,55,190,60,Medium
+FL0019,Zomato,Haldiram's,2025-10-10,11:00,Butter Chicken + 2 Roti x2,Indian,798,49,52,0,899,1700,84,130,76,High
+FL0017,Zomato,Biryani Blues,2025-10-04,07:10,Mutton Biryani x1,Biryani,399,49,25,0,473,900,40,80,38,High
+FL0020,Swiggy,Burger King,2025-10-03,18:45,Whopper Meal x1; Coke x1,Burger; Beverages,528,40,36,50,554,1260,35,167,43,High
+FL0018,Zomato,Subway,2025-10-01,22:50,Veg Sub x1,Fast Food,249,49,19,100,217,480,18,65,15,High
+FL0010,Swiggy,Behrouz Biryani,2025-09-30,09:20,Veg Biryani x1,Biryani,279,49,25,0,353,620,18,90,20,High
+FL0005,Zomato,Mainland China,2025-09-28,09:50,Chicken Fried Rice x1; Brownie x1,Chinese; Desserts,528,40,37,0,605,1170,40,146,44,High
+FL0015,Zomato,The Good Bowl,2025-09-26,17:10,Dal Makhani + Rice x1,Indian,299,40,14,0,353,680,20,105,20,High
+FL0012,Swiggy,Faasos,2025-09-25,16:50,Dal Makhani + Rice x1,Indian,299,20,25,20,324,680,20,105,20,High
+FL0014,Zomato,McDonald's,2025-09-23,18:10,McVeggie Meal x2; Chicken Roll x1,Burger; Snacks,727,20,46,100,693,2000,61,235,79,High
+FL0013,Zomato,Burger King,2025-09-22,20:50,Whopper Meal x1,Burger,429,35,29,20,473,1050,35,115,43,High
+FL0007,Swiggy,Wow! Momo,2025-09-21,20:15,Veg Momos x1,Snacks,199,25,16,75,165,420,16,55,15,High
+FL0006,Swiggy,McDonald's,2025-09-15,18:40,Whopper Meal x1,Burger,429,30,23,20,462,1050,35,115,43,High
+FL0009,Zomato,Wow! Momo,2025-09-09,21:10,Samosa + Chai x2,Snacks,298,30,13,30,311,780,16,110,30,Medium
+FL0003,Swiggy,KFC,2025-09-09,13:10,Veg Sub x2,Fast Food,498,35,27,0,560,960,36,130,30,Medium
+FL0008,Swiggy,KFC,2025-09-08,21:50,Zinger Burger Meal x1; Coke x1,Fast Food; Beverages,448,35,21,75,429,1130,32,152,38,Medium
+FL0004,Zomato,Subway,2025-09-04,22:10,Chicken Popcorn x1,Fast Food,249,0,17,30,236,520,28,40,25,High
+FL0001,Zomato,Biryani Blues,2025-09-04,09:20,Mutton Biryani x1,Biryani,399,35,19,75,378,900,40,80,38,High
+FL0002,Swiggy,Oven Story Pizza,2025-09-03,15:00,Garlic Bread x1,Pizza,149,49,15,0,213,350,8,45,16,High
+FL0011,Zomato,Biryani Blues,2025-09-01,09:30,Chicken Biryani x1,Biryani,329,0,14,100,243,780,34,82,28,Medium
