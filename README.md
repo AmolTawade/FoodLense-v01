@@ -17,6 +17,9 @@ FoodLens is a modern, responsive analytics dashboard designed to help you track 
 ## 📸 Screenshots
 
 ><img width="1464" height="806" alt="image" src="https://github.com/user-attachments/assets/aa9dbd04-0b2d-401f-8bde-4fb12fe37950" />
+<img width="1465" height="802" alt="image" src="https://github.com/user-attachments/assets/c2b6d569-baae-43ac-a525-9c689639dc58" />
+<img width="1464" height="821" alt="image" src="https://github.com/user-attachments/assets/b2ec805e-bf62-4cb2-b7df-d9a8262f38be" />
+<img width="1470" height="803" alt="image" src="https://github.com/user-attachments/assets/7a92b6da-d4dc-4fb7-b2f7-20b3f8f20776" />
 
 
 ---
@@ -52,25 +55,9 @@ FoodLense-v01/
 └── package.json
 ```
 
-## 🚀 Getting Started (Local Development)
+## 🚀 Take a look
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AmolTawade/FoodLense-v01.git
-   cd FoodLense-v01
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and navigate to the live site at `https://food-lense-v01.vercel.app/`.
+Open your browser and navigate to the live site at `https://food-lense-v01.vercel.app/`.
 
 ## 🌐 Deployment
 
