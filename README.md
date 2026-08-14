@@ -2,12 +2,15 @@
 
 > Your Personal Food Spending & Nutrition Intelligence Dashboard.
 
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel)](https://food-lense-v01.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-purple.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC.svg)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org/)
 
 FoodLens is a modern, responsive analytics dashboard designed to help you track your food delivery habits. By ingesting your historical orders from platforms like Zomato and Swiggy, FoodLens visualizes your spending trends, order frequencies, and estimated nutritional intake.
+
+**[🚀 View Live Demo on Vercel](https://food-lense-v01.vercel.app/)**
 
 ---
 
