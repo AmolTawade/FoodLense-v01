@@ -75,7 +75,7 @@ FoodLense-v01/
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`.
+4. Open your browser and navigate to the live site at `https://food-lense-v01.vercel.app/`.
 
 ## 🌐 Deployment
 
